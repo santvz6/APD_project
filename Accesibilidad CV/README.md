@@ -1,0 +1,1 @@
+https://dadesobertes.gva.es/es/dataset/estudio-de-accesibilidad-universal-en-edificios-publicos-en-la-comunidad-valenciana-de-titulari?utm_source=chatgpt.com
