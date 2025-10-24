@@ -44,6 +44,8 @@ Este apartado está compuesto por las siguientes tareas que deben ser debidament
 
 
 **Casos de uso:**
+
+_"funcionalidad a alto nivel"_
 - Visitas a lugares públicos
 - Día a Día
 - Momentos en los que no disponen de ayuda
