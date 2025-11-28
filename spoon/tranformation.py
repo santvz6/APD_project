@@ -33,6 +33,7 @@ class Transformation:
                 return text
             text = unicodedata.normalize("NFD", text)
             text = ''.join(c for c in text if unicodedata.category(c) != "Mn")
+            text = text.replace("?", "")
             return text
         
         for col in self.df.select_dtypes(include="object").columns:
