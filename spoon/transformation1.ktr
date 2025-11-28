@@ -954,7 +954,7 @@
         <repeat>N</repeat>
       </field>
       <field>
-        <name>accesibilidat_total</name>
+        <name>accesibilidad_total</name>
         <type>String</type>
         <format/>
         <currency>€</currency>
@@ -1216,114 +1216,151 @@
     <fields>
       <field>
         <name>WKT</name>
+        <rename/>
       </field>
       <field>
         <name>id</name>
+        <rename/>
       </field>
       <field>
         <name>nombre</name>
+        <rename/>
       </field>
       <field>
         <name>direccion</name>
+        <rename/>
       </field>
       <field>
         <name>cod_ine_mun</name>
+        <rename/>
       </field>
       <field>
         <name>anyo_const</name>
+        <rename/>
       </field>
       <field>
         <name>tipo_edifi</name>
+        <rename/>
       </field>
       <field>
         <name>tipo_edifi_val</name>
+        <rename/>
       </field>
       <field>
         <name>uso_edifi</name>
+        <rename/>
       </field>
       <field>
         <name>uso_edifi_val</name>
+        <rename/>
       </field>
       <field>
         <name>proteccio</name>
+        <rename/>
       </field>
       <field>
         <name>e1_entrada_ppal</name>
+        <rename/>
       </field>
       <field>
         <name>e1_entrada_ppal_val</name>
+        <rename/>
       </field>
       <field>
         <name>e1_coste</name>
+        <rename/>
       </field>
       <field>
         <name>e2_itinerarios_accesibles</name>
+        <rename/>
       </field>
       <field>
         <name>e2_itinerarios_accesibles_val</name>
+        <rename/>
       </field>
       <field>
         <name>e2_coste</name>
+        <rename/>
       </field>
       <field>
         <name>e3_zonas_atencion_publico</name>
+        <rename/>
       </field>
       <field>
         <name>e3_zonas_atencion_publico_val</name>
+        <rename/>
       </field>
       <field>
         <name>e3_coste</name>
+        <rename/>
       </field>
       <field>
         <name>e4_servicios_higienicos</name>
+        <rename/>
       </field>
       <field>
         <name>e4_servicios_higienicos_val</name>
+        <rename/>
       </field>
       <field>
         <name>e4_coste</name>
+        <rename/>
       </field>
       <field>
         <name>e5_elementos_accesibles</name>
+        <rename/>
       </field>
       <field>
         <name>e5_elementos_accesibles_val</name>
+        <rename/>
       </field>
       <field>
         <name>e5_coste</name>
+        <rename/>
       </field>
       <field>
-        <name>accesibilidat_total</name>
+        <name>accesibilidad_total</name>
+        <rename/>
       </field>
       <field>
         <name>accesibilidat_total_val</name>
+        <rename/>
       </field>
       <field>
         <name>total_coste</name>
+        <rename/>
       </field>
       <field>
         <name>nom_mun</name>
+        <rename/>
       </field>
       <field>
         <name>nom_mun_cas</name>
+        <rename/>
       </field>
       <field>
         <name>nom_mun_cas_a</name>
+        <rename/>
       </field>
       <field>
         <name>nom_mun_val</name>
+        <rename/>
       </field>
       <field>
         <name>nom_mun_val_a</name>
+        <rename/>
       </field>
       <field>
         <name>noms_mun</name>
+        <rename/>
       </field>
       <field>
         <name>comarca</name>
+        <rename/>
       </field>
       <field>
         <name>provincia</name>
+        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
       <remove>
@@ -1421,7 +1458,7 @@
     <unique_rows>N</unique_rows>
     <fields>
       <field>
-        <name>accesibilidat_total</name>
+        <name>accesibilidad_total</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -1576,7 +1613,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>à</replace_string>
@@ -1771,7 +1808,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>á</replace_string>
@@ -1966,7 +2003,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>è</replace_string>
@@ -2161,7 +2198,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>é</replace_string>
@@ -2356,7 +2393,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>ì</replace_string>
@@ -2551,7 +2588,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>í</replace_string>
@@ -2746,7 +2783,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>ò</replace_string>
@@ -2941,7 +2978,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>ó</replace_string>
@@ -3136,7 +3173,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>ù</replace_string>
@@ -3331,7 +3368,7 @@
         <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>accesibilidat_total</in_stream_name>
+        <in_stream_name>accesibilidad_total</in_stream_name>
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>ú</replace_string>
@@ -3592,7 +3629,7 @@
         <precision>-1</precision>
       </field>
       <field>
-        <name>accesibilidat_total</name>
+        <name>accesibilidad_total</name>
         <type>String</type>
         <format/>
         <currency/>

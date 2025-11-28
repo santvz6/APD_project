@@ -21,8 +21,8 @@ class Transformation:
         # Creamos transformer: de EPSG:25830 (UTM zona 30N) → EPSG:4326 (WGS84)
         transformer = Transformer.from_crs("EPSG:25830", "EPSG:4326", always_xy=True)
         self.df["lon"], self.df["lat"] = zip(*self.df["WKT"].apply(wkt.loads).apply(lambda point: transformer.transform(point.x, point.y)))
+        self.df.drop(columns=["WKT"], inplace=True)
 
-        
 
     def __remove_special_char(self):
         """
