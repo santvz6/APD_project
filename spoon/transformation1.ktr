@@ -1236,151 +1236,114 @@
     <fields>
       <field>
         <name>WKT</name>
-        <rename/>
       </field>
       <field>
         <name>id</name>
-        <rename/>
       </field>
       <field>
         <name>nombre</name>
-        <rename/>
       </field>
       <field>
         <name>direccion</name>
-        <rename/>
       </field>
       <field>
         <name>cod_ine_mun</name>
-        <rename/>
       </field>
       <field>
         <name>anyo_const</name>
-        <rename/>
       </field>
       <field>
         <name>tipo_edifi</name>
-        <rename/>
       </field>
       <field>
         <name>tipo_edifi_val</name>
-        <rename/>
       </field>
       <field>
         <name>uso_edifi</name>
-        <rename/>
       </field>
       <field>
         <name>uso_edifi_val</name>
-        <rename/>
       </field>
       <field>
         <name>proteccio</name>
-        <rename/>
       </field>
       <field>
         <name>e1_entrada_ppal</name>
-        <rename/>
       </field>
       <field>
         <name>e1_entrada_ppal_val</name>
-        <rename/>
       </field>
       <field>
         <name>e1_coste</name>
-        <rename/>
       </field>
       <field>
         <name>e2_itinerarios_accesibles</name>
-        <rename/>
       </field>
       <field>
         <name>e2_itinerarios_accesibles_val</name>
-        <rename/>
       </field>
       <field>
         <name>e2_coste</name>
-        <rename/>
       </field>
       <field>
         <name>e3_zonas_atencion_publico</name>
-        <rename/>
       </field>
       <field>
         <name>e3_zonas_atencion_publico_val</name>
-        <rename/>
       </field>
       <field>
         <name>e3_coste</name>
-        <rename/>
       </field>
       <field>
         <name>e4_servicios_higienicos</name>
-        <rename/>
       </field>
       <field>
         <name>e4_servicios_higienicos_val</name>
-        <rename/>
       </field>
       <field>
         <name>e4_coste</name>
-        <rename/>
       </field>
       <field>
         <name>e5_elementos_accesibles</name>
-        <rename/>
       </field>
       <field>
         <name>e5_elementos_accesibles_val</name>
-        <rename/>
       </field>
       <field>
         <name>e5_coste</name>
-        <rename/>
       </field>
       <field>
         <name>accesibilidad_total</name>
-        <rename/>
       </field>
       <field>
         <name>accesibilidat_total_val</name>
-        <rename/>
       </field>
       <field>
         <name>total_coste</name>
-        <rename/>
       </field>
       <field>
         <name>nom_mun</name>
-        <rename/>
       </field>
       <field>
         <name>nom_mun_cas</name>
-        <rename/>
       </field>
       <field>
         <name>nom_mun_cas_a</name>
-        <rename/>
       </field>
       <field>
         <name>nom_mun_val</name>
-        <rename/>
       </field>
       <field>
         <name>nom_mun_val_a</name>
-        <rename/>
       </field>
       <field>
         <name>noms_mun</name>
-        <rename/>
       </field>
       <field>
         <name>comarca</name>
-        <rename/>
       </field>
       <field>
         <name>provincia</name>
-        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
       <remove>
@@ -3151,7 +3114,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>AccesiblidadEdificiosAlicante</name>
+      <name>AccesibilidadEdificiosAlicante</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>txt</extention>
