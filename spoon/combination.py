@@ -32,8 +32,12 @@ class Combination:
                 merged[base_col] = merged[base_col].combine_first(merged[col])
                 merged.drop(columns=[col], inplace=True)
 
-        # Rellenar NaN con vacío
-        merged.fillna("", inplace=True)
+        # Rellenar NaN de forma segura
+        for col in merged.columns:
+            if merged[col].dtype == "object":
+                merged[col] = merged[col].fillna("")
+            else:
+                merged[col] = merged[col].fillna(0)
 
         # Añadir id incremental
         merged.insert(0, "id", range(1, len(merged) + 1))

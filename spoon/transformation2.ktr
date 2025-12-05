@@ -431,17 +431,12 @@
     <created_date>2025/10/24 16:57:12.768</created_date>
     <modified_user>-</modified_user>
     <modified_date>2025/10/24 16:57:12.768</modified_date>
-    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
+    <key_for_session_key>H4sIAAAAAAAA/wMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
   </notepads>
   <order>
-    <hop>
-      <from>Entrada Fichero de Texto</from>
-      <to>Selecciona/Renombra valores y borra</to>
-      <enabled>Y</enabled>
-    </hop>
     <hop>
       <from>Replace à</from>
       <to>Replace è</to>
@@ -503,11 +498,6 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Selecciona/Renombra valores y borra</from>
-      <to>Pasar a minusculas</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Pasar a minusculas</from>
       <to>Replace á</to>
       <enabled>Y</enabled>
@@ -525,6 +515,16 @@
     <hop>
       <from>Replace ç</from>
       <to>Replace ñ</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Entrada Fichero de Texto</from>
+      <to>Selecciona/Renombra valores</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Selecciona/Renombra valores</from>
+      <to>Pasar a minusculas</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -572,7 +572,17 @@
     <length>Characters</length>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>/home/carlosv/Desktop/ADP/APD_project-main/APD_project-main/dataset_overpass/data.csv</name>
+      <name>/home/carlosv/Desktop/ADP/APD_project-main/APD_project-main/dataset_overpass/AccesibilidadEdificiosAlicante2.csv</name>
+      <filemask/>
+      <exclude_filemask/>
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+      <name>/home/sant_vz6/Escritorio/UA-3/5_APD_viernes/ADP_project/dataset_overpass/AccesibilidadEdificiosAlicante2.csv</name>
+      <filemask/>
+      <exclude_filemask/>
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+      <name/>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -597,7 +607,7 @@
         <name>@id</name>
         <type>Integer</type>
         <format>#</format>
-        <currency>$</currency>
+        <currency>€</currency>
         <decimal>.</decimal>
         <group>,</group>
         <nullif>-</nullif>
@@ -605,97 +615,97 @@
         <position>-1</position>
         <length>15</length>
         <precision>0</precision>
-        <trim_type>both</trim_type>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>@type</name>
         <type>String</type>
         <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
+        <currency>€</currency>
+        <decimal>,</decimal>
+        <group>.</group>
         <nullif>-</nullif>
         <ifnull/>
         <position>-1</position>
         <length>4</length>
         <precision>-1</precision>
-        <trim_type>both</trim_type>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>name</name>
         <type>String</type>
         <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
+        <currency>€</currency>
+        <decimal>,</decimal>
+        <group>.</group>
         <nullif>-</nullif>
         <ifnull/>
         <position>-1</position>
         <length>35</length>
         <precision>-1</precision>
-        <trim_type>both</trim_type>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>wheelchair</name>
         <type>String</type>
         <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
+        <currency>€</currency>
+        <decimal>,</decimal>
+        <group>.</group>
         <nullif>-</nullif>
-        <ifnull/>
+        <ifnull>0</ifnull>
         <position>-1</position>
-        <length>35</length>
+        <length>7</length>
         <precision>-1</precision>
-        <trim_type>both</trim_type>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>toilets:wheelchair</name>
         <type>String</type>
         <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
+        <currency>€</currency>
+        <decimal>,</decimal>
+        <group>.</group>
         <nullif>-</nullif>
-        <ifnull/>
+        <ifnull>0</ifnull>
         <position>-1</position>
-        <length>35</length>
+        <length>3</length>
         <precision>-1</precision>
-        <trim_type>both</trim_type>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>@lat</name>
         <type>BigNumber</type>
-        <format>#.#######</format>
-        <currency>$</currency>
+        <format>#.########</format>
+        <currency>€</currency>
         <decimal>.</decimal>
         <group>,</group>
         <nullif>-</nullif>
         <ifnull/>
         <position>-1</position>
-        <length>10</length>
-        <precision>7</precision>
-        <trim_type>both</trim_type>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
       <field>
         <name>@lon</name>
         <type>BigNumber</type>
-        <format>#.#######</format>
-        <currency>$</currency>
+        <format>#.########</format>
+        <currency>€</currency>
         <decimal>.</decimal>
         <group>,</group>
         <nullif>-</nullif>
         <ifnull/>
         <position>-1</position>
-        <length>10</length>
-        <precision>7</precision>
-        <trim_type>both</trim_type>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
         <repeat>N</repeat>
       </field>
     </fields>
@@ -789,7 +799,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>912</xloc>
+      <xloc>992</xloc>
       <yloc>448</yloc>
       <draw>Y</draw>
     </GUI>
@@ -831,7 +841,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>736</xloc>
+      <xloc>704</xloc>
       <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>
@@ -961,7 +971,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>688</xloc>
+      <xloc>768</xloc>
       <yloc>448</yloc>
       <draw>Y</draw>
     </GUI>
@@ -1072,7 +1082,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>800</xloc>
+      <xloc>880</xloc>
       <yloc>448</yloc>
       <draw>Y</draw>
     </GUI>
@@ -1870,7 +1880,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>AccesibilidadGeneralAlicante</name>
+      <name>AccesibilidadEdificiosAlicante2</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>txt</extention>
@@ -1957,13 +1967,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>880</xloc>
+      <xloc>848</xloc>
       <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Selecciona/Renombra valores y borra</name>
+    <name>Selecciona/Renombra valores</name>
     <type>SelectValues</type>
     <description/>
     <distribute>Y</distribute>
@@ -1976,11 +1986,9 @@
     <fields>
       <field>
         <name>@id</name>
-        <rename/>
       </field>
       <field>
         <name>@type</name>
-        <rename/>
       </field>
       <field>
         <name>name</name>
@@ -2019,45 +2027,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>336</xloc>
+      <xloc>320</xloc>
       <yloc>208</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Valor JavaScript modificado</name>
-    <type>ScriptValueMod</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <compatible>N</compatible>
-    <optimizationLevel>9</optimizationLevel>
-    <jsScripts>
-      <jsScript>
-        <jsScript_type>0</jsScript_type>
-        <jsScript_name>Script 1</jsScript_name>
-        <jsScript_script>//Script here
-
-</jsScript_script>
-      </jsScript>
-    </jsScripts>
-    <fields>    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>624</xloc>
-      <yloc>304</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
