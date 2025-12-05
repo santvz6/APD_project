@@ -17,29 +17,27 @@ class Combination:
         Si df2 tiene columnas que df1 no tiene, se añaden.
         Rellena con vacío las celdas faltantes.
         """
-        merged = pd.merge(
-            self.df1,
-            self.df2,
-            on=self.key,
-            how="outer",  # incluye todas las filas de df1 y df2
+        merged = pd.merge(self.df1, self.df2,
+            on=self.key,    # key = nombre
+            how="outer",    # incluye todas las filas de df1 y df2
             suffixes=("", "_df2")
         )
 
-        # Opcional: unir columnas duplicadas si existieran
+        # Unimos las columnas duplicadas si existieran
         for col in merged.columns:
             if col.endswith("_df2"):
                 base_col = col[:-4]
                 merged[base_col] = merged[base_col].combine_first(merged[col])
                 merged.drop(columns=[col], inplace=True)
 
-        # Rellenar NaN de forma segura
+        # Rellenamos los NaN de forma segura
         for col in merged.columns:
             if merged[col].dtype == "object":
                 merged[col] = merged[col].fillna("")
             else:
                 merged[col] = merged[col].fillna(0)
 
-        # Añadir id incremental
+        # Añadimos un id incremental
         merged.insert(0, "id", range(1, len(merged) + 1))
         self.result = merged
         return merged
