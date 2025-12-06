@@ -69,7 +69,7 @@ disfruta zumos naturales,4,0,38.3493091,-0.4884099,placa del music oscar tordera
 the good burger,4,0,38.3441014,-0.4837338,placa del portal d'elx / plaza portal de elche,raval de sant francesc,alacant / alicante,03001,fast_food
 coffee nutz,4,0,38.3475316,-0.4845614,la rambla / la rambla,raval de sant francesc,alacant / alicante,03001,cafe
 representantes,4,0,38.3523192,-0.4862858,avinguda de l'alcalde alfonso de rojas / avenida del alcalde alfonso de rojas,raval de sant antoni,alacant / alicante,03004,bus_stop
-"rambla mendez nunyez, 4-6",4,0,38.3441059,-0.4830176,la rambla / la rambla,raval de sant francesc,alacant / alicante,03001,bus_stop
+rambla mendez nunyez 4-6,4,0,38.3441059,-0.4830176,la rambla / la rambla,raval de sant francesc,alacant / alicante,03001,bus_stop
 las piramides,4,0,38.3591127,-0.4821192,carrer de guardamar / calle guardamar,les carolines altes,alacant / alicante,03012,restaurant
 i2e (ingenieria informatica empresarial),4,0,38.3451668,-0.5068288,carrer d'auso y monzo / calle auso y monzo,sant ferran - princesa mercedes,alacant / alicante,03006,it
 moeve,4,0,38.3856792,-0.4498206,avinguda de denia / avenida de denia,orgegia,alacant / alicante,03559,fuel
@@ -99,10 +99,10 @@ ulanka,4,0,38.343408,-0.4893328,avenida de maisonnave / avinguda de maisonnave,n
 punto roma,4,0,38.3434217,-0.4892289,avenida de maisonnave / avinguda de maisonnave,nostra senyora de gracia,alacant / alicante,03003,clothes
 farmacia del teatro,4,0,38.3456448,-0.486491,carrer del teatre / calle del teatro,nostra senyora de gracia,alacant / alicante,03001,pharmacy
 urgencies,4,0,38.3527883,-0.4758436,carrer de celia valls / calle celia valls,sant roc,alacant / alicante,03013,emergency_ward_entrance
-hospital de dia,4,0,38.3527772,-0.4764815,avinguda de vazquez de mella / avenida vazquez de mella,sant roc,alacant / alicante,03013,hospital
-radiologia,4,0,38.3523711,-0.4757895,avinguda de vazquez de mella / avenida vazquez de mella,sant roc,alacant / alicante,03013,hospital
-radioterapia,4,0,38.3524669,-0.4762525,avinguda de vazquez de mella / avenida vazquez de mella,sant roc,alacant / alicante,03013,hospital
-consultes externes,4,0,38.3642271,-0.4856023,carrer del mestre alonso / calle maestro alonso,les carolines altes,alacant / alicante,03012,hospital
+hospital de dia,4,0,38.3527772,-0.4764815,placa del doctor gomez ulla / plaza del doctor gomez ulla,sant roc,alacant / alicante,03013,hospital
+radiologia,4,0,38.3523711,-0.4757895,placa del doctor gomez ulla / plaza del doctor gomez ulla,sant roc,alacant / alicante,03013,hospital
+radioterapia,4,0,38.3524669,-0.4762525,placa del doctor gomez ulla / plaza del doctor gomez ulla,sant roc,alacant / alicante,03013,hospital
+consultes externes,4,0,38.3642271,-0.4856023,avinguda del pintor baeza / avenida pintor baeza,altossano,alacant / alicante,03014,hospital
 once,4,0,38.3637914,-0.4845753,carrer del mestre alonso / calle maestro alonso,les carolines altes,alacant / alicante,03012,lottery
 alacant terminal,4,0,38.3449804,-0.496061,carrer de bono guarner / calle bono guarner,nostra senyora de gracia,alacant / alicante,03003,station
 dua clinic,4,0,38.3701775,-0.4144339,avinguda de santander / avenida de santander,la platja de sant joan,alacant / alicante,03540,hospital
@@ -128,11 +128,11 @@ go 99,4,0,38.3401184,-0.4899004,carrer de l'arquebisbe loaces / calle arzobispo 
 +copy,4,0,38.3594783,-0.4911098,carrer d'aureliano ibarra / calle aureliano ibarra,altossano,alacant / alicante,03010,copyshop
 tepemok,4,0,38.3497067,-0.4878388,carrer de manuel anton / calle manuel anton,nostra senyora de gracia,alacant / alicante,03004,convenience
 pepco,4,0,38.3748159,-0.5059183,carrer de benidoleig / calle benidoleig,la divina pastora,alacant / alicante,03011,clothes
-umh - universitat miguel hernandez - campus de sant joan d'alacant,4,4,38.3885882,-0.4363055,cami de benimagrell / camino de benimagrell,desconocido,alacant / alicante,03559,university
+umh - universitat miguel hernandez - campus de sant joan d'alacant,4,4,38.3885882,-0.4363055,avenida don santiago ramon y cajal,la santa fac,sant joan d'alacant,03559,research_institute
 castell de santa barbara,4,0,38.3490916,-0.4781771,tunel de acceso ascensor al castillo de santa barbara,sant antoni,alacant / alicante,03002,castle
 passeig de l'esplanada d'espanya / paseo de la explanada de espanya,4,0,38.3432153,-0.4832701,passeig de l'esplanada d'espanya / paseo de la explanada de espana,raval de sant francesc,alacant / alicante,03001,footway
 seu universitaria ciutat d'alacant / sede universitaria ciudad de alicante,4,0,38.3416092,-0.487079,avinguda del doctor gadea / avenida doctor gadea,nostra senyora de gracia,alacant / alicante,03001,university
-el corte ingles,4,0,38.3440222,-0.4898638,avinguda de federico soto / avenida de federico soto,nostra senyora de gracia,alacant / alicante,03003,department_store
+el corte ingles,4,0,38.3440222,-0.4898638,carrer del general o'donnell / calle general o'donnell,nostra senyora de gracia,alacant / alicante,03003,department_store
 passeig de l'escriptor joan fuster / paseo del escritor joan fuster,4,0,38.3318946,-0.5072735,avinguda d'elx / avenida de elche,el palmeral,alacant / alicante,03007,yes
 plasa del papa joan pau ii / plaza del papa juan pablo ii,4,0,38.3534913,-0.5117808,placa del papa joan pau ii / plaza del papa juan pablo ii,joan pau ii / juan pablo ii,alacant / alicante,03006,residential
 plasa de conchi rodriguez vicaria / plaza conchi rodriguez vicaria,4,0,38.375737,-0.4956985,carrer del clot / calle clot,el clot,alacant / alicante,03011,bench
@@ -144,13 +144,13 @@ cami del clot / camino del clot,4,0,38.3791964,-0.4998765,cami del clot / camino
 burger king,4,0,38.3653364,-0.4862979,carrer de colombia / calle colombia,altossano,alacant / alicante,03014,fast_food
 estadio jose rico perez,4,0,38.3573816,-0.4926034,"carrer de l'esportista jose luis soriano ""poli"" / calle deportista jose luis soriano ""poli""",altossano,alacant / alicante,03010,pitch
 pasarela acceso playa,4,0,38.3470854,-0.4761224,carrer de jovellanos / calle jovellanos,sant roc,alacant / alicante,03002,primary
-piscina climatizada,4,0,38.3610735,-0.4243518,carrer de l'arpo / calle arpon,entreplatges,alacant / alicante,03540,sports_centre
+piscina climatizada,4,0,38.3610735,-0.4243518,carrer del trident / calle tridente,entreplatges,alacant / alicante,03540,fitness_centre
 policia local,4,0,38.3645207,-0.4100177,avinguda de napols / avenida de napoles,desconocido,alacant / alicante,03540,police
 collegi d'educacio infantil i primaria san fernando,4,0,38.3552455,-0.4993587,carrer de ciudad real / calle ciudad real,poligon de sant blai,alacant / alicante,03005,school
 hotel ac alicante,4,0,38.3386446,-0.4948575,carrer d'isabel la catolica / calle isabel la catolica,nostra senyora de gracia,alacant / alicante,03003,hotel
 plasa de l'arquitecte miguel lopez / plaza del arquitecto miguel lopez,4,0,38.3380061,-0.4930059,placa de l'arquitecte miguel lopez / plaza del arquitecto miguel lopez,raval de sant francesc,alacant / alicante,03003,fountain
 nostrum,4,0,38.3443064,-0.4890458,carrer de colon / calle colon,nostra senyora de gracia,alacant / alicante,03001,restaurant
-"casa alberola alicante, curio collection by hilton",4,0,38.3422175,-0.4866396,carrer de canalejas / calle canalejas,raval de sant francesc,alacant / alicante,03001,hotel
+casa alberola alicante curio collection by hilton,4,0,38.3422175,-0.4866396,carrer de canalejas / calle canalejas,raval de sant francesc,alacant / alicante,03001,hotel
 panaderia bravo bolleria,4,0,38.3437017,-0.5110716,carrer d'asturies / calle asturias,la florida baixa,alacant / alicante,03007,bakery
 maya,4,0,38.3518506,-0.4747021,carrer del canonge manuel penalva / calle canonigo manuel penalva,sangueta,alacant / alicante,03002,hotel
 auditorio la concha,4,0,38.3428843,-0.4837883,passeig de l'esplanada d'espanya / paseo de la explanada de espana,raval de sant francesc,alacant / alicante,03001,bandstand
@@ -167,18 +167,18 @@ carrer de l'advocat perez mirete / calle abogado perez mirete,4,0,38.3747128,-0.
 carrer del music alfosea / calle musico alfosea,4,0,38.3733974,-0.4895101,carrer del music alfosea / calle musico alfosea,verge del remei,alacant / alicante,03112,house
 plasa del doctor gascunyana hernando / plaza del doctor gascunyana hernando,4,0,38.3750713,-0.4882798,placa del doctor gascunana hernando / plaza del doctor gascunana hernando,verge del remei,alacant / alicante,03112,footway
 carrer del publicista jose tari / calle publicista jose tari,4,0,38.3740628,-0.4898657,carrer del publicista jose tari / calle publicista jose tari,verge del remei,alacant / alicante,03112,footway
-carrer senyorita de trevelez / calle senyorita de trevelez,4,0,38.3747245,-0.4927805,carrer senorita de trevelez / calle senorita de trevelez,ciutat jardi,alacant / alicante,03112,footway
+carrer senyorita de trevelez / calle senyorita de trevelez,4,0,38.3747245,-0.4927805,carrer senorita de trevelez / calle senorita de trevelez,ciutat jardi,alacant / alicante,03112,residential
 carrer del doctor claramunt / calle doctor claramunt,4,0,38.3748665,-0.4894186,carrer del doctor claramunt / calle doctor claramunt,verge del remei,alacant / alicante,03112,footway
 carrer de la maragda / calle esmeralda,4,0,38.3750347,-0.4850952,carrer de la maragda / calle esmeralda,colonia requena,alacant / alicante,03112,footway
 carrer del cronista figueras pacheco / calle cronista figueras pacheco,4,0,38.3726021,-0.4847432,carrer del cronista figueras pacheco / calle cronista figueras pacheco,colonia requena,alacant / alicante,03014,footway
 carrer del safir / calle zafiro,4,0,38.3747129,-0.4864673,carrer del safir / calle zafiro,colonia requena,alacant / alicante,03112,footway
 carrer de la perla / calle perla,4,0,38.3745354,-0.4864612,carrer de la perla / calle perla,colonia requena,alacant / alicante,03112,footway
 carrer del farmaceutic agatangelo soler / calle farmaceutico agatangelo soler,4,0,38.375163,-0.4874047,carrer del farmaceutic agatangelo soler / calle farmaceutico agatangelo soler,colonia requena,alacant / alicante,03112,footway
-carrer de valdes leal / calle valdes leal,4,0,38.3747639,-0.4988702,carrer de valdes leal / calle valdes leal,ciutat jardi,alacant / alicante,03011,footway
-carrer del capella planelles / calle cura planelles,4,0,38.3727938,-0.4979586,carrer del capella planelles / calle cura planelles,ciutat jardi,alacant / alicante,03011,footway
-carrer del music torres climent / calle musico torres climent,4,0,38.3748713,-0.4920305,carrer del music torres climent / calle musico torres climent,verge del remei,alacant / alicante,03112,footway
+carrer de valdes leal / calle valdes leal,4,0,38.3747639,-0.4988702,carrer de valdes leal / calle valdes leal,desconocido,alacant / alicante,03011,residential
+carrer del capella planelles / calle cura planelles,4,0,38.3727938,-0.4979586,carrer del capella planelles / calle cura planelles,ciutat jardi,alacant / alicante,03011,residential
+carrer del music torres climent / calle musico torres climent,4,0,38.3748713,-0.4920305,carrer del music torres climent / calle musico torres climent,ciutat jardi,alacant / alicante,03112,residential
 plasa de la creu / plaza de la cruz,4,0,38.376449,-0.4880233,placa de la creu / plaza de la cruz,verge del remei,alacant / alicante,03112,footway
-"musico jose torregrosa, 2",4,0,38.3867133,-0.4910545,carrer del music jose torregrosa / calle musico jose torregrosa,el palamo,alacant / alicante,03112,house
+musico jose torregrosa 2,4,0,38.3867133,-0.4910545,carrer del music jose torregrosa / calle musico jose torregrosa,el palamo,alacant / alicante,03112,house
 carrer del senador jose vicente mateo / calle senador jose vicente mateo,4,0,38.3705557,-0.4832639,carrer del senador jose vicente mateo / calle senador jose vicente mateo,quatre-centes vivendes,alacant / alicante,03014,residential
 plasa d'ora / plaza de oran,4,0,38.3721156,-0.4851688,placa d'ora / plaza de oran,mare de deu del carme,alacant / alicante,03112,house
 carrer de moncada / calle moncada,4,0,38.3720623,-0.4855992,carrer de moncada / calle moncada,mare de deu del carme,alacant / alicante,03112,house
@@ -200,11 +200,11 @@ carrer del canonge giner / calle canonigo giner,4,0,38.3732927,-0.4872887,carrer
 carrer de benejusser / calle benejuzar,4,0,38.3693093,-0.4824523,avinguda dels exercits espanyols / avenida de los ejercitos espanoles,quatre-centes vivendes,alacant / alicante,03014,sports_centre
 carrer del diputat juan antonio rodriguez marin / calle diputado juan antonio rodriguez marin,4,0,38.3692435,-0.4842154,carrer del diputat juan antonio rodriguez marin / calle diputado juan antonio rodriguez marin,mare de deu del carme,alacant / alicante,03014,residential
 carrer del diputat antonio garcia miralles / calle diputado antonio garcia miralles,4,0,38.3688688,-0.4841132,carrer del diputat antonio garcia miralles / calle diputado antonio garcia miralles,mare de deu del carme,alacant / alicante,03014,footway
-carrer agustin jimenez navarlaz / calle agustin jimenez navarlaz,4,0,38.3660088,-0.4895822,carrer agustin jimenez navarlaz / calle agustin jimenez navarlaz,benissaudet,alacant / alicante,03014,parking
+carrer agustin jimenez navarlaz / calle agustin jimenez navarlaz,4,0,38.3660088,-0.4895822,carrer d'agustin jimenez navarlaz / calle agustin jimenez navarlaz,benissaudet,alacant / alicante,03009,parking
 carrer de sant pere poveda / calle san pedro poveda,4,0,38.3664069,-0.489956,carrer de sant pere poveda / calle san pedro poveda,benissaudet,alacant / alicante,03009,footway
 carrer d'alcala galiano / calle alcala galiano,4,0,38.3573095,-0.4842858,carrer d'alcala galiano / calle alcala galiano,campoamor,alacant / alicante,03012,footway
 carrer de la turquesa / calle turquesa,4,0,38.377256,-0.4843664,carrer de la turquesa / calle turquesa,joan xxiii,alacant / alicante,03112,footway
-calle geografo rey pastor / carrer del geograf rey pastor,4,0,38.372354,-0.4859461,calle geografo rey pastor / carrer del geograf rey pastor,mare de deu del carme,alacant / alicante,03112,footway
+calle geografo rey pastor / carrer del geograf rey pastor,4,0,38.372354,-0.4859461,carrer del geograf rey pastor / calle geografo rey pastor,mare de deu del carme,alacant / alicante,03112,residential
 avinguda ronda de melilla / avenida ronda de melilla,4,0,38.3736418,-0.4829173,avinguda ronda de melilla / avenida ronda de melilla,joan xxiii,alacant / alicante,03014,footway
 carrer periodista francisco bas mingot / calle periodista francisco bas mingot,4,0,38.3746799,-0.4829418,carrer periodista francisco bas mingot / calle periodista francisco bas mingot,joan xxiii,alacant / alicante,03112,footway
 carrer sierra montgo / calle sierra montgo,4,0,38.3716531,-0.488556,carrer sierra montgo / calle sierra montgo,verge del remei,alacant / alicante,03112,house
@@ -212,14 +212,14 @@ carrer d'alonso cano / calle alonso cano,4,0,38.3723611,-0.4825753,carrer d'alon
 carrer de la verge de monserrate / calle virgen de monserrate,4,0,38.369247,-0.497593,carrer de la verge de monserrate / calle virgen de monserrate,la tombola,alacant / alicante,03011,footway
 plasa de les escoles / plaza de las escuelas,4,0,38.3758024,-0.4925542,placa de les escoles / plaza de las escuelas,verge del remei,alacant / alicante,03112,footway
 tourist info,4,0,38.3438616,-0.4799467,passeig del port / paseo del puerto,centre historic,alacant / alicante,03002,parking
-carrer de granada / calle granada,4,0,38.3733521,-0.4883593,carrer de granada / calle granada,verge del remei,alacant / alicante,03112,footway
+carrer de granada / calle granada,4,0,38.3733521,-0.4883593,carrer de granada / calle granada,verge del remei,alacant / alicante,03112,house
 carrer del poeta pedro salinas / calle poeta pedro salinas,4,0,38.3681164,-0.4901894,carrer del poeta pedro salinas / calle poeta pedro salinas,benissaudet,alacant / alicante,03112,footway
 carrer de la verge dels lliris / calle virgen de los lirios,4,0,38.3693897,-0.4981901,carrer de la verge dels lliris / calle virgen de los lirios,la tombola,alacant / alicante,03011,footway
 plenergy,4,0,38.3714114,-0.4577111,calle vistahermosa provisional 10,vistahermosa norte,alacant / alicante,03016,charging_station
 carrer de villa de chiva / calle villa de chiva,4,0,38.3719809,-0.4875906,carrer de villa de chiva / calle villa de chiva,verge del remei,alacant / alicante,03112,footway
 avinguda de novelda / avenida de novelda,4,0,38.3696064,-0.4971488,avinguda de novelda / avenida de novelda,la tombola,alacant / alicante,03011,secondary
 carrer de l'escriptor damaso alonso / calle escritor damaso alonso,4,0,38.3694077,-0.4866717,carrer de l'escriptor damaso alonso / calle escritor damaso alonso,mare de deu del carme,alacant / alicante,03014,footway
-farmacia,4,0,38.360831,-0.4500242,via verda de la cantera,albufereta,alacant / alicante,03016,pharmacy
+farmacia,4,0,38.360831,-0.4500242,carrer del sol naixent / calle sol naciente,albufereta,alacant / alicante,03016,pharmacy
 instituto bernabeu,4,0,38.3653157,-0.4577547,carrer de fernando alfaya / calle fernando alfaya,vistahermosa,alacant / alicante,03016,clinic
 carrer del diputat joaquin fuster / calle diputado joaquin fuster,4,0,38.3709035,-0.4834529,carrer del diputat joaquin fuster / calle diputado joaquin fuster,mare de deu del carme,alacant / alicante,03014,footway
 carrer del diputat joaquin galant ruiz / calle diputado joaquin galant ruiz,4,0,38.3705255,-0.4835479,carrer del diputat joaquin fuster / calle diputado joaquin fuster,mare de deu del carme,alacant / alicante,03014,police
@@ -251,7 +251,7 @@ casa susi,2,0,38.362866,-0.483442,carrer del doctor buades / calle doctor buades
 vincent's,2,0,38.3442686,-0.4918454,carrer del general lacy / calle general lacy,nostra senyora de gracia,alacant / alicante,03003,pub
 consulado britanico,2,0,38.3457204,-0.4837505,la rambla / la rambla,raval de sant francesc,alacant / alicante,03002,diplomatic
 svaps,2,0,38.3460037,-0.4880084,carrer del metge pascual perez / calle medico pascual perez,nostra senyora de gracia,alacant / alicante,03001,e-cigarette
-ciudad ibero romana de lucentum,2,2,38.3647421,-0.4388496,carrer d'enees / calle de eneas,albufereta,alacant / alicante,03540,archaeological_site
+ciudad ibero romana de lucentum,2,2,38.3647421,-0.4388496,cami de la colonia romana / camino de la colonia romana,albufereta,alacant / alicante,03016,archaeological_site
 plasa del poble gitano / plaza del pueblo gitano,2,0,38.3583524,-0.4907421,carrer alferez diaz sanchis / calle alferez diaz sanchis,campoamor,alacant / alicante,03004,steps
 senda del poeta,2,0,38.3486495,-0.5783577,senda del poeta,el pla de la vallonga,alacant / alicante,03114,path
 carrer d'indalecio prieto / calle indalecio prieto,2,0,38.3538357,-0.4751574,carrer d'indalecio prieto / calle indalecio prieto,santa creu,alacant / alicante,03013,yes
@@ -265,7 +265,7 @@ carrer de camoens / calle camoens,2,0,38.3536337,-0.475029,carrer de camoens / c
 la barraca,2,0,38.5655963,-0.1672852,desconocido,desconocido,desconocido,03509,residential
 bazar la rambla,3,0,38.3476243,-0.4843798,carrer del general primo de rivera / calle general primo de rivera,nostra senyora de gracia,alacant / alicante,03001,convenience
 sotelo 10,3,0,38.3436028,-0.4886034,placa de calvo sotelo / plaza de calvo sotelo,nostra senyora de gracia,alacant / alicante,03001,cafe
-"plaza de espanya, 4",3,0,38.3516599,-0.4853625,placa d'espanya / plaza de espana,raval de sant antoni,alacant / alicante,03004,bus_stop
+plaza de espanya 4,3,0,38.3516599,-0.4853625,placa d'espanya / plaza de espana,raval de sant antoni,alacant / alicante,03004,bus_stop
 pintor amoros,3,0,38.3706336,-0.4715152,carrer del pintor antonio amoros / calle pintor antonio amoros,ciutat elegida,alacant / alicante,03015,bus_stop
 cristobal pardo,3,0,38.3629519,-0.4722109,carrer del doctor cristobal pardo / calle doctor cristobal pardo,el garbinet,alacant / alicante,03015,bus_stop
 la florida,3,0,38.3416548,-0.5139434,carrer d'artur / calle arturo,la florida baixa,alacant / alicante,03007,pharmacy
@@ -282,9 +282,9 @@ maldita gloria!,3,0,38.348186,-0.4883157,carrer del poeta quintana / calle poeta
 europhone,3,0,38.3611214,-0.4923711,avinguda de novelda / avenida de novelda,altossano,alacant / alicante,03010,internet_cafe
 universitat d'alacant / universidad de alicante (campus de sant vicent),3,0,38.3849307,-0.5141978,antic acces nord-oest a alacant,desconocido,alacant / alicante,03690,university
 polideportivo municipal stadium,3,0,38.3611393,-0.4245176,carrer del trident / calle tridente,entreplatges,alacant / alicante,03540,fitness_centre
-plasa dels estels / plaza de los luceros,3,0,38.3460049,-0.490678,placa dels estels / plaza de los luceros,nostra senyora de gracia,alacant / alicante,03003,attraction
+plasa dels estels / plaza de los luceros,3,0,38.3460049,-0.490678,placa dels estels / plaza de los luceros,nostra senyora de gracia,alacant / alicante,03003,fountain
 club deportivo montemar,3,0,38.3567191,-0.4756423,carrer de la gimnasta maisa lloret / calle gimnasta maisa lloret,el pla del bon repos,alacant / alicante,03013,pitch
-facultat de farmacia - universitat miguel hernandez d'elx,3,2,38.3872224,-0.4354765,avinguda del pintor perez gil / avenida pintor perez gil,desconocido,sant joan d'alacant,03559,university
+facultat de farmacia - universitat miguel hernandez d'elx,3,2,38.3872224,-0.4354765,avinguda del pintor perez gil / avenida pintor perez gil,desconocido,alacant / alicante,03559,university
 smile & co hostal,3,0,38.3429579,-0.4867299,carrer de rafael terol / calle rafael terol,raval de sant francesc,alacant / alicante,03001,hotel
 platja d'aigua amarga,3,0,38.299863,-0.5189107,passeig del music ignacio juan barcelo / paseo musico ignacio juan barcelo,desconocido,alacant / alicante,03008,biergarten
 doggy beach,3,0,38.2987065,-0.5194136,passeig del music ignacio juan barcelo / paseo musico ignacio juan barcelo,desconocido,alacant / alicante,03008,biergarten

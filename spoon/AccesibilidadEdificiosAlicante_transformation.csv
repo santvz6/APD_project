@@ -1,32 +1,32 @@
 nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4_servicios_higienicos,e5_elementos_accesibles,accesibilidad_total,lat,lon,direccion,barrio,ciudad,codigo_postal,tipo_lugar
-conservatorio,0,0,0,0,0,0,38.16102499999997,-0.8034790000000008,calle jose m. miralles quinto,desconocido,desconocido,03158,residential
+conservatorio,0,0,0,0,0,0,38.16102499999996,-0.8034790000000008,calle jose m. miralles quinto,desconocido,desconocido,03158,residential
 servicios sociales,0,0,0,0,0,0,38.10795900000002,-0.7882140000000043,calle antimo illescas,centro,almoradi,03160,pedestrian
 catral joven,0,0,0,0,0,0,38.16142699999998,-0.804689000000004,calle oscar espla,desconocido,desconocido,03158,police
-centro cultural san vicente ferrer,0,0,0,0,1,0,38.08581600000001,-0.7956870000000005,calle mayor,desconocido,desconocido,03169,house
-ayuntamiento,0,0,0,0,0,0,38.439234000000035,-0.638581000000001,placa d'espanya,desconocido,desconocido,03698,townhall
+centro cultural san vicente ferrer,0,0,0,0,1,0,38.08581600000001,-0.795687,calle mayor,desconocido,desconocido,03169,house
+ayuntamiento,0,0,0,0,0,0,38.439234000000035,-0.6385810000000013,placa d'espanya,desconocido,desconocido,03698,townhall
 centro social,0,0,0,0,0,0,38.43760400000002,-0.6391569999999983,avinguda del consell del pais valencia,desconocido,desconocido,03698,secondary
-ceip la rambla,0,0,0,0,1,0,38.438198000000014,-0.635753999999999,carrer de la concepcion,desconocido,desconocido,03698,school
+ceip la rambla,0,0,0,0,1,0,38.43819800000001,-0.635753999999999,carrer de la concepcion,desconocido,desconocido,03698,school
 casa de cultura,0,0,0,0,1,0,38.436116000000005,-0.637952999999995,avinguda de xixona,desconocido,desconocido,03698,school
 museo de alfareria,0,0,0,0,0,0,38.44142100000002,-0.6402649999999994,carrer monforte,desconocido,desconocido,03698,residential
-ajuntament,0,0,0,0,0,0,38.7799502,-0.5156353000000035,carrer major,desconocido,desconocido,03837,service
+ajuntament,0,0,0,0,0,0,38.77995020000001,-0.515635300000003,carrer major,desconocido,desconocido,03837,service
 centre social,0,0,1,0,0,0,38.78053200000002,-0.5167029999999955,carrer sant antoni,desconocido,desconocido,03837,pharmacy
-casa jove,0,0,1,0,0,0,38.78049689999996,-0.5166206999999997,carrer sant antoni,desconocido,desconocido,03837,pharmacy
+casa jove,0,0,1,0,0,0,38.78049689999996,-0.5166207,carrer sant antoni,desconocido,desconocido,03837,pharmacy
 casa consistorial,0,0,0,0,1,0,38.08678199999999,-0.7962720000000036,plaza de espana,desconocido,desconocido,03169,townhall
-consultorio medico,0,0,0,0,1,0,38.086342000000045,-0.7953050000000019,calle san jose,desconocido,desconocido,03169,house
+consultorio medico,0,0,0,0,1,0,38.08634200000005,-0.7953050000000019,calle san jose,desconocido,desconocido,03169,house
 escuela infantil municipal,0,0,1,0,0,0,38.086554000000035,-0.7976940000000002,calle del camino san miguel,desconocido,desconocido,03169,kindergarten
 centro atencion temprana,0,0,1,0,0,0,38.109361999999976,-0.7950249999999993,calle santo cristo,centro,almoradi,03160,residential
-teatro cortes,0,0,0,0,0,0,38.11081200000001,-0.7894020000000052,calle comunidad valenciana,centro,almoradi,03160,theatre
+teatro cortes,0,0,0,0,0,0,38.11081200000001,-0.7894020000000048,calle comunidad valenciana,centro,almoradi,03160,theatre
 ajuntament d'altea,0,0,0,0,0,0,38.6024481,-0.04731789999999798,carrer gabriel miro,desconocido,altea,03590,jewelry
 c.e.a.m,0,0,0,0,1,0,38.603035200000036,-0.047953000000003916,carrer marina baixa,desconocido,altea,03590,residential
-centre cult. a. vella,0,0,1,0,1,0,38.62866149999998,-0.04229769999999586,carrer carretera de callosa,desconocido,altea,03599,secondary
+centre cult. a. vella,0,0,1,0,1,0,38.62866149999998,-0.042297699999996656,carrer carretera de callosa,desconocido,altea,03599,secondary
 conservatori m,0,0,0,0,0,0,38.59762139999999,-0.050859499999994943,carrer la sequia,desconocido,altea,03590,residential
 ext. adm. a. la vella,0,0,0,0,1,0,38.63032050000004,-0.04377469999999682,carrer rector llinares / calle cura llinares,desconocido,altea,03599,library
 casa consistorial (edificio historico),0,0,0,0,1,0,38.34580499999996,-0.7689219999999981,plaza mayor,desconocido,aspe,03680,townhall
 centro dia,0,0,1,0,0,0,38.33873000000003,-0.7683270000000003,calle ruperto chapi,desconocido,aspe,03680,residential
 "centro social ""casa del cisco""",0,0,0,0,0,0,38.34776599999996,-0.7689789999999961,avenida de la constitucion,desconocido,aspe,03680,museum
 "nuevo colegio ""perpetuo socorro""",0,0,0,0,0,0,38.340176000000014,-0.7650170000000005,calle maestro alcolea,desconocido,aspe,03680,school
-biblioteca ruben dario,0,0,0,0,0,0,38.345939999999956,-0.7692430000000039,calle de san jose,desconocido,aspe,03680,yes
-colindantes teatro wagner (posada y auditorio alfredo,0,0,1,0,0,0,38.34343599999998,-0.7707920000000049,calle barranco,desconocido,aspe,03680,bench
+biblioteca ruben dario,0,0,0,0,0,0,38.345939999999956,-0.7692430000000043,calle de san jose,desconocido,aspe,03680,yes
+colindantes teatro wagner (posada y auditorio alfredo,0,0,1,0,0,0,38.34343599999998,-0.7707920000000053,calle barranco,desconocido,aspe,03680,bench
 hogar del jubilado,0,0,1,0,0,0,38.71820099999996,-0.6576180000000078,carrer santa cecilia,desconocido,desconocido,03450,residential
 taller ocupacional (antigua casa medico),0,0,1,0,0,0,38.72128200000003,-0.6554739999999974,passeig font del cavaller,la mallaeta,desconocido,03450,service
 colegio alfonso iniesta y aulas anexas edu. infantil,0,0,0,0,1,0,38.721449999999976,-0.6566560000000032,carrer del llavadoret,desconocido,desconocido,03450,school
@@ -37,73 +37,73 @@ agencia de lectura,0,0,0,0,0,0,38.70115400000003,-0.7611310000000006,carrer dion
 museo etnografico,0,0,1,0,0,0,38.69843499999999,-0.76814,cami del camp de mirra,desconocido,desconocido,03409,residential
 ceip paternina,0,0,0,0,1,0,38.642861299999986,0.0390772000000021,avinguda masnou,la manzanera,calp,03710,school
 polideportivo municipal,0,0,0,0,1,0,38.596084499999975,-0.6674609000000045,tinent general don vicente ripoll vals,desconocido,castalla,03430,residential
-residencia tercera edad,0,0,0,0,0,0,38.156066999999965,-0.8031450000000021,calle vicente blasco ibanez,desconocido,desconocido,03158,social_facility
-"centro sociocultural, biblioteca y regantes",0,0,1,0,0,0,38.159203000000005,-0.8028929999999941,calle san antonio,desconocido,desconocido,03158,living_street
-"dependencias municipales (suma, servicios sociales y p",0,0,0,0,0,0,38.159734999999976,-0.8048269999999951,desconocido,desconocido,desconocido,03158,pedestrian
+residencia tercera edad,0,0,0,0,0,0,38.156066999999965,-0.8031450000000024,calle vicente blasco ibanez,desconocido,desconocido,03158,social_facility
+centro sociocultural biblioteca y regantes,0,0,1,0,0,0,38.159203000000005,-0.8028929999999941,calle san antonio,desconocido,desconocido,03158,living_street
+dependencias municipales (suma servicios sociales y p,0,0,0,0,0,0,38.159734999999976,-0.8048269999999951,desconocido,desconocido,desconocido,03158,pedestrian
 club convidencia de la 3a edad j. lozano,0,0,1,0,0,0,38.14095799999996,-0.886200999999998,calle alameda,desconocido,desconocido,03350,residential
 casa de la juventud,0,0,1,0,0,0,38.10453600000001,-0.7372310000000021,calle virgen de monserrate,desconocido,desconocido,03177,house
 consultorio auxiliar la cala,0,0,0,0,0,0,38.53164299999998,-0.16835300000000647,avinguda marina baixa,la cala de finestrat,desconocido,03509,hotel
-ceip balcon de finestrat,0,0,0,0,1,0,38.548650000000045,-0.2010219999999984,carrer gijon,urbanitzacio balco de finestrat,desconocido,03509,school
+ceip balcon de finestrat,0,0,0,0,1,0,38.548650000000045,-0.20102199999999878,avinguda del cami de l'alfas,desconocido,desconocido,03509,school
 escuela municipal infantil,0,0,1,0,0,0,38.56804899999997,-0.21373400000000256,carrer serra cortina,desconocido,desconocido,desconocido,residential
 centre juvenil,0,0,0,0,0,0,38.56874399999997,-0.21051100000000608,cv-761,desconocido,desconocido,desconocido,terrace
 centro multiusos la cala,0,0,1,0,0,0,38.52766299999997,-0.16576100000000504,avinguda marina baixa,la cala de finestrat,desconocido,03509,parking
-centro multiusos terra marina,0,0,1,0,0,0,38.53997400000002,-0.183928000000003,avinguda de la costa blanca,desconocido,desconocido,03509,community_centre
+centro multiusos terra marina,0,0,1,0,0,0,38.539974000000015,-0.1839280000000034,avinguda de la costa blanca,desconocido,desconocido,03509,community_centre
 edif. multiusos barquillero,0,0,1,0,0,0,38.537865000000025,-0.17314999999999267,cv-767,desconocido,desconocido,03509,parking
 museo etnologico,0,0,1,0,0,0,38.56695499999997,-0.21489400000000206,desconocido,desconocido,desconocido,desconocido,residential
-centro socio cultural los palacios,0,0,0,0,1,0,38.08954700000003,-0.7273069999999995,calle benijofar,los palacios,desconocido,03078,pitch
+centro socio cultural los palacios,0,0,0,0,1,0,38.08954700000004,-0.7273070000000003,calle benijofar,los palacios,desconocido,03078,pitch
 centro sociocultural san roque,0,0,1,0,1,0,38.08464500000001,-0.7467860000000056,calle federico garcia lorca,desconocido,desconocido,03179,social_facility
-ceip juan carlos,0,0,0,0,0,0,38.085355999999955,-0.7445170000000011,calle concepcion mingot,desconocido,desconocido,03179,school
+ceip juan carlos,0,0,0,0,0,0,38.085355999999955,-0.7445170000000008,calle concepcion mingot,desconocido,desconocido,03179,school
 edifici de l'ajuntament,0,0,0,0,1,0,38.773423999999984,0.08351199999999478,carrer la bassa,desconocido,desconocido,03740,pedestrian
 edifici del centre social integrat,0,0,0,0,1,0,38.77309900000002,0.0833639999999968,pr-cv 412,desconocido,desconocido,03740,path
 "edifici polivalent ""guillem agullo""",0,0,1,0,0,0,38.77068299999999,0.08413199999999525,carrer del grup escolar,desconocido,desconocido,03740,house
-centro cultural,0,0,1,0,0,0,38.06082700000004,-0.8668640000000012,pasaje de la iglesia,desconocido,desconocido,03310,civic
-centro social de la 3a edad,0,0,0,0,1,0,38.84346259999997,-0.30915740000000475,carrer de la safor,desconocido,desconocido,03860,restaurant
+centro cultural,0,0,1,0,0,0,38.06082700000004,-0.8668640000000016,pasaje de la iglesia,desconocido,desconocido,03310,civic
+centro social de la 3a edad,0,0,0,0,1,0,38.843462599999974,-0.30915740000000475,carrer de la safor,desconocido,desconocido,03860,restaurant
 consultorio auxiliar y vivienda medico,0,0,1,0,1,0,38.842331099999996,-0.3114108000000017,carrer mestres serrano,desconocido,desconocido,03860,carpenter
-c.e.i.p. francisco cloquell,0,0,1,0,0,0,38.8436532,-0.3099853999999947,carrer de la safor,desconocido,desconocido,03860,school
-edificio de la casa consistorial (ayuntamiento),0,0,0,0,0,0,38.57957100000005,-0.10172630000000078,carrer de les escoles,desconocido,desconocido,03580,tertiary
+c.e.i.p. francisco cloquell,0,0,1,0,0,0,38.8436532,-0.3099853999999951,carrer escoles,desconocido,desconocido,03860,school
+edificio de la casa consistorial (ayuntamiento),0,0,0,0,0,0,38.57957100000005,-0.10172629999999999,carrer de les escoles,desconocido,desconocido,03580,tertiary
 centro cultural de la tercera edad,0,0,1,0,0,0,38.57989849999999,-0.09958600000000276,carrer exercits espanyols,desconocido,desconocido,03580,tree
-centro social albir,0,0,0,0,0,0,38.57151980000002,-0.07707670000000007,carrer sant javier,urbanitzacio l'estrada,desconocido,03581,residential
+centro social albir,0,0,0,0,0,0,38.571519800000026,-0.07707669999999928,carrer sant javier,urbanitzacio l'estrada,desconocido,03581,residential
 centro de formacion,0,0,0,0,0,0,38.57891779999997,-0.09768480000000615,carretera de l'albir,jardi de l'alfas,desconocido,03580,tertiary
-edifici de lajuntament,0,0,0,0,0,0,38.82825600000001,0.017044000000001645,placa del convent,desconocido,desconocido,03760,living_street
-museo villa romana y otras dependencias,0,0,0,0,0,0,38.573807999999985,-0.06631899999999995,bulevard dels musics,pla parcial platja,desconocido,03581,archaeological_site
+edifici de lajuntament,0,0,0,0,0,0,38.82825600000002,0.017044000000002443,placa del convent,desconocido,desconocido,03760,living_street
+museo villa romana y otras dependencias,0,0,0,0,0,0,38.573807999999985,-0.06631900000000035,bulevard dels musics,pla parcial platja,desconocido,03581,archaeological_site
 escuela,0,0,1,0,0,0,38.77289559999999,-0.42675139999999856,avinguda del pais valencia,desconocido,desconocido,03829,school
 casa de la cultura,0,0,0,0,0,0,38.772100200000025,-0.4251001999999957,avinguda del pais valencia,desconocido,desconocido,03829,residential
-auditori centro social,0,0,0,0,1,0,38.50991499999997,-0.23093499999999723,carrer dels germans aragones,desconocido,la vila joiosa / villajoyosa,03570,residential
+auditori centro social,0,0,0,0,1,0,38.50991499999997,-0.2309349999999968,carrer dels germans aragones,desconocido,la vila joiosa / villajoyosa,03570,residential
 teatre auditori,0,0,0,0,0,0,38.51158899999998,-0.2308070000000028,carrer de la doctora damiana zaragoza,desconocido,la vila joiosa / villajoyosa,03570,theatre
 consultorio medico interior,0,0,0,0,0,0,38.02546900000002,-0.747437999999995,calle miguel hernandez,barrio de los miras,desconocido,03187,clinic
 centro civico y social,0,0,1,0,1,0,38.02668100000004,-0.7431959999999952,calle virgen del remedio,desconocido,desconocido,03187,community_centre
 centro socio cultural,0,0,0,0,0,0,38.02860999999997,-0.7473250000000035,calle virgen de loreto,barrio de los miras,desconocido,03187,house
 escuela infantil,0,0,1,0,0,0,38.02986299999996,-0.7423980000000013,calle maestro fidel gomez,desconocido,desconocido,03187,school
-nueva escuela musica y auditorio,0,0,0,0,1,0,38.028843000000016,-0.7436739999999987,calle virgen de loreto,barrio de los miras,desconocido,03187,house
-centro de dia para menores,0,0,0,0,1,0,38.383355999999964,-0.7663879999999991,calle jaime ii,desconocido,novelda,03660,residential
-centro enfermos de alzheimer,0,0,0,0,0,0,38.379036999999975,-0.7694819999999968,calle hermanos quintero,desconocido,novelda,03660,nursing_home
-centro civico soci,0,0,0,0,0,0,38.38098800000001,-0.7702470000000008,avenida de los reyes catolicos,desconocido,novelda,03660,theatre
+nueva escuela musica y auditorio,0,0,0,0,1,0,38.028843000000016,-0.7436739999999992,calle virgen de loreto,barrio de los miras,desconocido,03187,house
+centro de dia para menores,0,0,0,0,1,0,38.383355999999964,-0.7663879999999994,calle jaime ii,desconocido,novelda,03660,residential
+centro enfermos de alzheimer,0,0,0,0,0,0,38.379036999999975,-0.7694819999999971,calle hermanos quintero,desconocido,novelda,03660,nursing_home
+centro civico soci,0,0,0,0,0,0,38.380988000000016,-0.7702470000000008,avenida de los reyes catolicos,desconocido,novelda,03660,theatre
 centro social de la estacion,0,0,1,0,1,0,38.40546300000001,-0.7750850000000052,cami castella,barrio de la estacion,novelda,03660,residential
-polideportivo municipal - casa conserje + biblio+pisci,0,0,1,0,1,0,38.384546000000036,-0.7564230000000013,avenida compositor vicente diez clemente,desconocido,novelda,03660,sports_centre
+polideportivo municipal - casa conserje + biblio+pisci,0,0,1,0,1,0,38.38454600000003,-0.7564230000000008,avenida compositor vicente diez clemente,desconocido,novelda,03660,sports_centre
 piso sdad musical sta ma magdalena,0,0,1,0,0,0,38.385832,-0.7651380000000026,plaza de espana,desconocido,novelda,03660,residential
 sala multiusos en pamis,0,0,1,0,0,0,38.81810899999996,0.009562999999994545,cv-7260,desconocido,desconocido,03778,tertiary
 edificio casa consistorial,0,0,0,0,1,0,38.622600999999996,-0.1313410000000018,avinguda de sagi barba,desconocido,desconocido,03520,residential
 centro salud polop avda sagi barba 24,0,0,0,0,1,0,38.622122000000005,-0.1298109999999988,avinguda de sagi barba,desconocido,desconocido,03520,pharmacy
-edificio multiusos o centro socio cultural la pilarica,0,0,0,0,1,0,38.62210299999998,-0.12972599999999826,avinguda de sagi barba,desconocido,desconocido,03520,pharmacy
-edificio centro social pau 1 parcela 51 equip admin,0,0,1,0,0,0,38.61910999999998,-0.14392400000000716,avinguda de la baronia de polop,urbanitzacio polop paradis,desconocido,03520,residential
+edificio multiusos o centro socio cultural la pilarica,0,0,0,0,1,0,38.62210299999998,-0.12972599999999865,avinguda de sagi barba,desconocido,desconocido,03520,pharmacy
+edificio centro social pau 1 parcela 51 equip admin,0,0,1,0,0,0,38.61910999999998,-0.14392400000000796,avinguda de la baronia de polop,urbanitzacio polop paradis,desconocido,03520,residential
 casa cultura,0,0,1,0,0,0,38.72450069999998,-0.3156660000000065,carrer trinquet,desconocido,desconocido,03811,townhall
-consultorio auxiliar marina,0,0,0,0,0,0,38.13546099999998,-0.6865799999999966,calle amsterdam,urbanizacion la marina-el oasis,desconocido,03177,clinic
-consultorio y proteccion civil,0,0,0,0,0,0,38.114614999999965,-0.7175389999999978,infanta leonor,desconocido,desconocido,03078,clinic
-centro social urb. marina,0,0,0,0,0,0,38.135974000000004,-0.6864229999999989,avenida de san fulgencio,urbanizacion la marina-el oasis,desconocido,03177,community_centre
-colegio jose maria manresa navarro,0,0,0,0,1,0,38.116188,-0.7165460000000035,avenida del polideportivo,desconocido,desconocido,03078,school
+consultorio auxiliar marina,0,0,0,0,0,0,38.135460999999985,-0.6865799999999966,calle amsterdam,urbanizacion la marina-el oasis,desconocido,03177,clinic
+consultorio y proteccion civil,0,0,0,0,0,0,38.114614999999965,-0.7175389999999975,infanta leonor,desconocido,desconocido,03078,clinic
+centro social urb. marina,0,0,0,0,0,0,38.135974000000004,-0.6864229999999992,avenida de san fulgencio,urbanizacion la marina-el oasis,desconocido,03177,community_centre
+colegio jose maria manresa navarro,0,0,0,0,1,0,38.116188,-0.7165460000000031,avenida del polideportivo,desconocido,desconocido,03078,school
 espacio multiusos comercial-cultural,0,0,1,0,0,0,38.11557900000003,-0.7185519999999954,fernando alonso,desconocido,desconocido,03078,residential
 escuela de musica,0,0,1,0,1,0,38.11435400000002,-0.7187839999999979,menendez pelayo,desconocido,desconocido,03078,music_school
 teatro municipal cardenal belluga,0,0,1,0,0,0,38.11259999999999,-0.7216150000000013,rojales,desconocido,desconocido,03078,theatre
 centro civico,0,0,1,0,0,0,38.11307699999998,-0.7176670000000015,lepanto,desconocido,desconocido,03078,community_centre
-"casa consistorial, centro civico y consultorio",0,0,0,0,1,0,38.75657900000003,-0.27524650000000417,carrer nou,desconocido,desconocido,03813,doctors
+casa consistorial centro civico y consultorio,0,0,0,0,1,0,38.75657900000003,-0.27524650000000417,carrer nou,desconocido,desconocido,03813,doctors
 residencia 3a edad,0,0,1,0,1,0,38.75657320000002,-0.2747351000000044,carrer nou,desconocido,desconocido,03813,house
-"biblioteca, casa de la cultura, llar 3a edat",0,0,0,0,0,0,38.74223300000004,-0.00880500000000025,cv-750,urbanitzacio solana park,desconocido,03727,secondary
+biblioteca casa de la cultura llar 3a edat,0,0,0,0,0,0,38.74223300000004,-0.00880500000000025,cv-750,urbanitzacio solana park,desconocido,03727,secondary
 ceip sagrada familia,0,0,0,0,0,0,38.53077900000004,-0.5066200000000014,avinguda de joan fuster,desconocido,desconocido,03100,school
-teatret,0,0,1,0,1,0,38.54248900000002,-0.5067860000000042,carrer de sant francesc,barri de l'almarx,desconocido,03100,place_of_worship
-oficinas generales,0,0,0,0,0,0,38.539342999999995,-0.506932000000005,carrer d'alcoi,barri de segorb,desconocido,03100,townhall
-nuevas dependencias de la casa consistorial (ayuntamie,0,0,0,0,0,0,38.57957100000005,-0.10172630000000078,carrer de les escoles,desconocido,desconocido,03580,tertiary
-centro de dia,0,0,0,0,1,0,38.575395899999954,-0.09650119999999977,avinguda de les corts valencianes,arabi,desconocido,03580,government
-centro cultural escoles velles,0,0,0,0,0,0,38.58020799999996,-0.10056700000000614,carrer de murcia,desconocido,desconocido,03580,residential
+teatret,0,0,1,0,1,0,38.54248900000002,-0.5067860000000034,carrer de sant francesc,barri de l'almarx,desconocido,03100,place_of_worship
+oficinas generales,0,0,0,0,0,0,38.539342999999995,-0.5069320000000046,carrer d'alcoi,barri de segorb,desconocido,03100,townhall
+nuevas dependencias de la casa consistorial (ayuntamie,0,0,0,0,0,0,38.57957100000005,-0.10172629999999999,carrer de les escoles,desconocido,desconocido,03580,tertiary
+centro de dia,0,0,0,0,1,0,38.575395899999954,-0.09650120000000018,carrer rosa dels vents,arabi,desconocido,03580,government
+centro cultural escoles velles,0,0,0,0,0,0,38.58020799999997,-0.10056700000000614,carrer de murcia,desconocido,desconocido,03580,residential
 espacio polivalente segorb,0,0,1,0,0,0,38.534348000000016,-0.5065019999999977,carrer d'enric valor,barri de segorb,desconocido,03100,police
 centro ocupacional ada,1,0,0,0,1,1,38.10953800000002,-0.784070999999996,calle medico julio garcia garcia,banet,almoradi,03106,school
 centro tercera edad,1,0,1,0,0,1,38.10816400000002,-0.7877830000000017,calle antimo illescas,centro,almoradi,03160,pedestrian
@@ -111,38 +111,38 @@ escuelas municipales 1927,1,0,0,0,0,1,38.10970100000005,-0.7935490000000027,call
 c. salut casc antic,1,0,0,0,1,1,38.60150140000001,-0.05478380000000119,carrer la vila joiosa / calle villajoyosa,desconocido,altea,03590,doctors
 centre social 3a edat,0,1,0,0,1,1,38.602525000000014,-0.04814969999999417,carrer marina baixa,desconocido,altea,03590,bicycle_rental
 fpa,0,1,0,0,0,1,38.6055224,-0.04601479999999499,cami de l'institut,desconocido,altea,03590,residential
-escola de musica,1,1,1,0,1,1,38.59937599999996,-0.04884599999999608,carrer de la filharmonica,desconocido,altea,03590,house
-palau altea,0,1,0,0,1,1,38.599363300000036,-0.058181999999992365,carrer el reiet,desconocido,altea,03590,university
+escola de musica,1,1,1,0,1,1,38.59937599999996,-0.04884599999999568,carrer de la filharmonica,desconocido,altea,03590,house
+palau altea,0,1,0,0,1,1,38.599363300000036,-0.058181999999992365,carrer santa teresa,desconocido,altea,03590,university
 casa toni el fuster,0,1,0,0,0,1,38.59946570000004,-0.05164660000000316,costera dels matxos,desconocido,altea,03590,residential
-"casa consistorial ""locales municipales en plaza mayor,",1,1,1,0,0,1,38.34624499999998,-0.768712,calle nuncio de su santidad d. manuel monteiro castro,desconocido,aspe,03680,pedestrian
+"casa consistorial ""locales municipales en plaza mayor",1,1,1,0,0,1,38.34624499999998,-0.768712,calle nuncio de su santidad d. manuel monteiro castro,desconocido,aspe,03680,pedestrian
 centro social barrio la coca (centro de adultos),1,1,0,0,0,1,38.342447000000035,-0.7642440000000046,calle santander,desconocido,aspe,03680,school
 "colegio privado ""virgen de las nieves""",1,1,0,0,0,1,38.34841200000002,-0.7668700000000029,calle pedro galipienso,desconocido,aspe,03680,school
-"colegio publico ""dr. calatayud""",0,1,1,0,0,1,38.344260000000006,-0.7709409999999953,calle barranco,desconocido,aspe,03680,school
+"colegio publico ""dr. calatayud""",0,1,1,0,0,1,38.344260000000006,-0.7709409999999953,calle gregorio rizo,desconocido,aspe,03680,school
 "colegio publico ""el castillo""",0,1,0,0,0,1,38.34800799999996,-0.7729750000000013,calle monovar,desconocido,aspe,03680,school
-"colegio publico ""la paloma""",0,1,1,0,0,1,38.33812799999996,-0.7678630000000004,calle antonio ayala,desconocido,aspe,03680,school
-"colegio publico ""la paloma"" (colegio moscardo)",0,1,0,0,0,1,38.34165300000003,-0.7688100000000041,calle escultor de bussi,desconocido,aspe,03680,school
+"colegio publico ""la paloma""",0,1,1,0,0,1,38.33812799999996,-0.7678630000000004,calle lope de vega,desconocido,aspe,03680,school
+"colegio publico ""la paloma"" (colegio moscardo)",0,1,0,0,0,1,38.34165300000003,-0.7688100000000041,avenida gran capitan,desconocido,aspe,03680,school
 "colegio publico ""la serranica""",0,1,0,0,1,1,38.346371000000005,-0.7616849999999977,calle jose vicedo calatayud,desconocido,aspe,03680,school
-"colegio publico ""vistahermosa 2 ram-8""",0,1,0,0,0,1,38.341983000000035,-0.7695789999999927,calle cantal de eraes,desconocido,aspe,03680,school
+"colegio publico ""vistahermosa 2 ram-8""",0,1,0,0,0,1,38.341983000000035,-0.7695789999999927,calle virgen de la esperanza,desconocido,aspe,03680,school
 "colegio publico ""vistahermosa i",1,1,0,0,0,1,38.33737999999996,-0.7673909999999972,calle antonio ayala,desconocido,aspe,03680,school
 centro cultural y casa de la juventud,1,0,0,1,0,1,38.34421300000002,-0.769917999999998,calle de san pedro,desconocido,aspe,03680,house
 ateneo musical,1,0,1,0,0,1,38.348053999999955,-0.7662110000000056,calle doctor fleming,desconocido,aspe,03680,restaurant
-teatro wagner,1,0,0,0,1,1,38.34333500000003,-0.7711860000000027,camino de la rafica,desconocido,aspe,03680,theatre
-"locales de partidos politicos, asistenta social, adl y",1,0,1,1,0,1,38.71639100000001,-0.6570610000000044,placa de la malva,desconocido,desconocido,03450,service
+teatro wagner,1,0,0,0,1,1,38.34333500000003,-0.7711860000000027,calle miguel de unamuno,desconocido,aspe,03680,theatre
+locales de partidos politicos asistenta social adl y,1,0,1,1,0,1,38.716391000000016,-0.6570610000000044,placa de la malva,desconocido,desconocido,03450,service
 colegio la malena (conservatorio municipal de musica),1,1,1,0,0,1,38.716015,-0.6547940000000019,carrer de l'ermita,la mallaeta,desconocido,03450,parking
 local exposciones (anexo teatro),1,0,1,1,0,1,38.71583,-0.6573289999999998,carrer felip v,desconocido,desconocido,03450,residential
-sociedad musical,1,1,0,0,0,1,38.715418999999976,-0.6571539999999996,carrer major,desconocido,desconocido,03450,house
+sociedad musical,1,1,0,0,0,1,38.71541899999998,-0.6571539999999992,carrer major,desconocido,desconocido,03450,house
 teatro principal,1,1,0,0,1,1,38.71582099999998,-0.6573279999999966,carrer felip v,desconocido,desconocido,03450,residential
 castillo de banyeres (museo festero),1,1,0,1,0,1,38.71571340000002,-0.6573839000000039,carrer del castell,desconocido,desconocido,03450,theatre
 edf. local de la juventud y emisoria de radio,1,0,0,0,0,1,38.71553899999999,-0.6581600000000056,carrer del castell,desconocido,desconocido,03450,residential
 edf. museo del papeldel pais valencia (villa rosario),1,0,0,0,0,1,38.72214499999999,-0.6557189999999985,passeig font del cavaller,la mallaeta,desconocido,03450,museum
-museo arqueologico torre font bona,1,0,1,1,0,1,38.72081600000002,-0.6573300000000002,carrer font bona,desconocido,desconocido,03450,residential
-museo de la espardenya (villa rosario),1,0,0,1,0,1,38.72247399999999,-0.6548340000000002,passeig font del cavaller,la mallaeta,desconocido,03450,pedestrian
-museo de la farmacia (villa rosario),1,0,0,0,0,1,38.72140000000004,-0.6558190000000027,carrer del llavadoret,desconocido,desconocido,03450,information
+museo arqueologico torre font bona,1,0,1,1,0,1,38.72081600000003,-0.6573300000000002,carrer font bona,desconocido,desconocido,03450,residential
+museo de la espardenya (villa rosario),1,0,0,1,0,1,38.722473999999984,-0.6548340000000006,passeig font del cavaller,la mallaeta,desconocido,03450,pedestrian
+museo de la farmacia (villa rosario),1,0,0,0,0,1,38.72140000000004,-0.6558190000000035,carrer del llavadoret,desconocido,desconocido,03450,information
 centro pensionistas y jubilados,0,1,0,0,0,1,38.700365,-0.7669330000000028,placa de carles iv,desconocido,desconocido,desconocido,pedestrian
-colegio publico divina aurora,1,0,0,0,1,1,38.70017899999996,-0.760597000000005,calle valencia,desconocido,desconocido,03460,school
+colegio publico divina aurora,1,0,0,0,1,1,38.70017899999997,-0.760597000000005,avenida baneres,desconocido,desconocido,03460,school
 museo navarro/ sala de exposiciones temporales,0,0,1,1,0,1,38.698395000000005,-0.7682110000000024,cami del camp de mirra,desconocido,desconocido,03409,residential
 centro polivalente (cultural-social-ensenyanza-sanitar,1,0,0,0,1,1,38.67510399999996,-0.11132000000000468,carrer del raval de baix,desconocido,desconocido,03518,house
-c.p. azorin,0,1,0,0,1,1,38.648529400000044,0.047883899999997225,partida gargasindi,la soliva,calp,03710,school
+c.p. azorin,0,1,0,0,1,1,38.64852940000004,0.04788389999999763,partida gargasindi,la soliva,calp,03710,school
 cp olta,0,1,0,0,0,1,38.64448840000003,0.039925799999995466,carrer pare manjon,la manzanera,calp,03710,school
 edificio multiusos,1,0,1,0,0,1,38.6553226,0.049184999999996676,desconocido,san bernardo,calp,03710,unclassified
 igualdad,1,0,0,0,0,1,38.6446586,0.042468800000001534,carrer de la llibertat,la manzanera,calp,03710,house
@@ -150,52 +150,52 @@ museo torreo de la pea,1,0,0,1,0,1,38.64482160000001,0.044650600000002635,placa 
 museo arqueologico,1,0,0,0,0,1,38.64458569999996,0.044561599999995816,placa de la villa,la manzanera,calp,03710,yes
 museo de la senyoreta,0,1,0,0,0,1,38.644060899999964,0.04391189999999273,santisimo cristo,la manzanera,calp,03710,museum
 museo del coco,1,1,1,0,0,1,38.6553226,0.049184999999996676,desconocido,san bernardo,calp,03710,unclassified
-vivienda social,1,1,1,1,1,1,38.16156,-0.800989999999996,calle virgen de monserrate,desconocido,desconocido,03158,books
-ceip azorin,0,1,0,0,0,1,38.16125100000004,-0.8028360000000052,calle jose m. miralles quinto,desconocido,desconocido,03158,school
-ies catral,0,1,0,0,1,1,38.164920000000016,-0.8017780000000039,calle jorge juan,desconocido,desconocido,03158,school
-edificio multiusos emaus,1,0,1,0,0,1,38.841796000000045,0.010049999999997896,carrer de sant antoni,desconocido,desconocido,03770,residential
-edificio usos multiples,0,0,1,1,1,1,38.84639399999996,0.011310000000002372,carrer l'escorxador,desconocido,desconocido,03770,residential
+vivienda social,1,1,1,1,1,1,38.16156000000001,-0.8009899999999955,calle virgen de monserrate,desconocido,desconocido,03158,books
+ceip azorin,0,1,0,0,0,1,38.16125100000004,-0.8028360000000052,calle azorin,desconocido,desconocido,03158,school
+ies catral,0,1,0,0,1,1,38.164920000000016,-0.8017780000000039,calle armando ros duenas,desconocido,desconocido,03158,school
+edificio multiusos emaus,1,0,1,0,0,1,38.84179600000004,0.010049999999997896,carrer de sant antoni,desconocido,desconocido,03770,residential
+edificio usos multiples,0,0,1,1,1,1,38.84639399999997,0.011310000000002372,carrer l'escorxador,desconocido,desconocido,03770,residential
 antiguo consultorio,1,0,1,0,0,1,38.56753099999999,-0.21151299999999945,carrer nou,desconocido,desconocido,desconocido,house
-ceip puig campana,1,0,0,0,0,1,38.56903700000005,-0.21248099999999673,avinguda cami de reis,desconocido,desconocido,desconocido,secondary
+ceip puig campana,1,0,0,0,0,1,38.56903700000005,-0.21248099999999634,avinguda cami de reis,desconocido,desconocido,desconocido,secondary
 biblioteca,1,0,0,0,0,1,38.56727700000002,-0.21124799999999405,carrer sant josep,desconocido,desconocido,desconocido,residential
-extension administrativa la cala,0,1,0,0,0,1,38.53196100000003,-0.16845999999999578,desconocido,desconocido,desconocido,03509,residential
+extension administrativa la cala,0,1,0,0,0,1,38.53196100000003,-0.1684599999999954,desconocido,desconocido,desconocido,03509,residential
 sala actividades la cala,0,0,1,1,0,1,38.52952400000005,-0.16665899999999947,avinguda marina baixa,la cala de finestrat,desconocido,03509,bus_stop
-3a edad,1,0,1,0,0,1,38.08449800000003,-0.7467669999999968,calle federico garcia lorca,desconocido,desconocido,03179,social_facility
-"edifici al c/ del dr. gomez ferrer, 44",1,1,0,0,0,1,38.775024999999985,0.08416599999999969,carrer doctor gomez ferrer,desconocido,desconocido,03740,house
-edifici del grup escolar santissim crist,0,1,0,0,0,1,38.77054999999998,0.08371200000000038,carrer de les alcolaies,desconocido,desconocido,03740,school
+3a edad,1,0,1,0,0,1,38.08449800000003,-0.7467669999999972,calle federico garcia lorca,desconocido,desconocido,03179,social_facility
+edifici al c/ del dr. gomez ferrer 44,1,1,0,0,0,1,38.775024999999985,0.08416600000000048,carrer doctor gomez ferrer,desconocido,desconocido,03740,house
+edifici del grup escolar santissim crist,0,1,0,0,0,1,38.77054999999998,0.083712,carrer de les alcolaies,desconocido,desconocido,03740,school
 consultorio auxiliar,1,1,0,1,1,1,38.67564799999995,-0.19870000000000143,avenida de alicante,desconocido,desconocido,03517,cafe
-colegio publico,1,0,1,0,0,1,38.677611999999996,-0.19882999999999704,carrer de l'esglesia,desconocido,desconocido,03516,school
+colegio publico,1,0,1,0,0,1,38.677611999999996,-0.19882999999999784,carrer de l'esglesia,desconocido,desconocido,03516,school
 ceip virgen de belen,0,1,0,0,0,1,38.06234500000005,-0.8696399999999939,calle mayor,desconocido,desconocido,03310,school
-asociacion de mujeres,0,0,1,1,0,1,38.06139399999998,-0.8665830000000041,calle marques de fontalba,desconocido,desconocido,03310,house
+asociacion de mujeres,0,0,1,1,0,1,38.06139399999998,-0.8665830000000045,calle marques de fontalba,desconocido,desconocido,03310,house
 auditorio y escuela de musica,1,0,1,0,1,1,38.84250929999999,-0.31064419999999543,carrer de la vall de gallinera,desconocido,desconocido,03860,theatre
-casa del poble,1,0,1,0,0,1,38.84505350000002,-0.31172069999999674,avinguda pou,desconocido,desconocido,03860,service
+casa del poble,1,0,1,0,0,1,38.84505350000001,-0.3117206999999975,avinguda pou,desconocido,desconocido,03860,service
 casa dels joves,1,1,1,0,0,1,38.8440073,-0.3109298999999965,carrer santa elena,desconocido,desconocido,03860,service
 centro de salud (cesion de uso a gva-salud),0,1,0,0,1,1,38.57853689999997,-0.10017440000000208,carrer princeps d'espanya,arabi,desconocido,03580,residential
 antiguo cuartel de carabineros (centro de educacion am,1,0,0,0,0,1,38.570096599999985,-0.0643389000000025,cami vell del far,l'albir,desconocido,03581,yes
-museo,1,0,1,0,0,1,38.77192120000004,-0.42516159999999337,carrer xopada,desconocido,desconocido,03829,residential
+museo,1,0,1,0,0,1,38.77192120000004,-0.42516159999999376,carrer xopada,desconocido,desconocido,03829,residential
 centro social 3a edad de fleixy antiguo ayuntamiento,1,1,1,0,0,1,38.777854799999965,-0.10936890000000542,carrer major,desconocido,la vall de laguar,03791,house
-consultorio medico y centro social de benimaurell,1,0,1,0,1,1,38.77334249999996,-0.12736709999999798,carrer del llop,desconocido,la vall de laguar,03791,house
+consultorio medico y centro social de benimaurell,1,0,1,0,1,1,38.77334249999997,-0.12736709999999798,carrer del llop,desconocido,la vall de laguar,03791,house
 edificio multiusos y antiguo consultorio de campell,1,0,1,0,0,1,38.78050929999995,-0.10134130000000038,carrer rei en jaume,desconocido,la vall de laguar,03791,doctors
 barbera aragones,0,1,0,0,1,1,38.51036699999998,-0.23024999999999696,carrer del huit de maig,desconocido,la vila joiosa / villajoyosa,03570,museum
 c.p. egb virgen del pilar,1,0,0,0,0,1,38.02939700000002,-0.7425660000000033,calle maestro fidel gomez,desconocido,desconocido,03187,school
-centro de tercera edad fco. alted palomares,1,0,0,0,0,1,38.38689000000001,-0.7706460000000013,carrer d'alacant,desconocido,novelda,03660,residential
-centro salud agua deportivo (csad),1,0,0,0,1,1,38.382746999999995,-0.757318999999995,avenida de las cortes valencianas,desconocido,novelda,03660,sports_centre
+centro de tercera edad fco. alted palomares,1,0,0,0,0,1,38.38689000000001,-0.7706460000000009,carrer d'alacant,desconocido,novelda,03660,residential
+centro salud agua deportivo (csad),1,0,0,0,1,1,38.382746999999995,-0.7573189999999945,plaza margarita salas,desconocido,novelda,03660,sports_centre
 centro social de recreo de personas mayores carmencita,1,0,0,0,0,1,38.378532000000014,-0.7721049999999959,calle san marcial,desconocido,novelda,03660,community_centre
 centro tercera edad barrio la garrova,1,1,1,0,0,1,38.385327000000004,-0.7657529999999961,calle emilio castelar,desconocido,novelda,03660,bank
-tapis,1,0,0,0,0,1,38.38990699999999,-0.7715910000000019,calle maestro mandos,desconocido,novelda,03660,social_facility
+tapis,1,0,0,0,0,1,38.38990699999999,-0.7715910000000019,calle botanico pere cabanillas,desconocido,novelda,03660,social_facility
 centro cultural gomez tortosa+ oficina turismo +biblio,1,0,0,0,0,1,38.38631800000003,-0.7652099999999964,calle mayor,desconocido,novelda,03660,information
 aulas municipales de uso polivalente,1,1,1,0,0,1,38.386852000000026,-0.7672080000000008,calle menendez pelayo,desconocido,novelda,03660,residential
 casal de la juventud,1,0,0,0,0,1,38.38109500000001,-0.7687779999999937,calle doctor fleming,desconocido,novelda,03660,community_centre
 centro polivalente asociaciones (antiguo centro de sal,1,0,0,0,0,1,38.384541,-0.7570850000000057,avenida benito perez galdos,desconocido,novelda,03660,nursing_home
-edifici de la escoleta infantil,1,0,1,0,1,1,38.82800699999998,0.021635000000002253,carrer alfatares,desconocido,desconocido,03760,residential
+edifici de la escoleta infantil,1,0,1,0,1,1,38.82800699999998,0.021635000000001858,carrer alfatares,desconocido,desconocido,03760,residential
 auditori municipal,0,1,0,0,1,1,38.8254555,0.020007700000003438,carrer de sant jaume,desconocido,desconocido,03760,house
 aulari de musica,1,0,1,0,0,1,38.825250000000004,0.017166999999994208,carrer josep iturbi,desconocido,desconocido,03760,music_school
-edifici el prado . sala multiusos,1,0,0,0,0,1,38.82869499999997,0.016266999999996236,avinguda general bosch,desconocido,desconocido,03760,marketplace
+edifici el prado . sala multiusos,1,0,0,0,0,1,38.828694999999975,0.016266999999996236,avinguda general bosch,desconocido,desconocido,03760,marketplace
 centro social polivalente,0,1,0,0,0,1,38.62888799999997,-0.6745159999999999,calle virgen salud,desconocido,onil,03430,residential
 museo de la munyeca,1,0,0,0,0,1,38.62863700000001,-0.6742249999999959,avenida de la paz,desconocido,onil,03430,museum
 centro social plazoleta del pilar 3 pbj de xirles,1,0,0,0,0,1,38.63403500000002,-0.13616899999999726,carrer major,desconocido,desconocido,03520,residential
-centro social la alberca,1,0,0,0,0,1,38.594267000000016,-0.1434840000000052,avinguda d'andalusia,urbanitzacio l'alberca,desconocido,03520,residential
-edificio centro social c. san ramon no 36,1,0,1,0,1,1,38.63431700000001,-0.13431599999999572,carrer de sant ramon,desconocido,desconocido,03520,residential
+centro social la alberca,1,0,0,0,0,1,38.594267000000016,-0.14348400000000477,avinguda d'andalusia,urbanitzacio l'alberca,desconocido,03520,residential
+edificio centro social c. san ramon no 36,1,0,1,0,1,1,38.63431700000001,-0.1343159999999953,carrer de sant ramon,desconocido,desconocido,03520,residential
 edificio antiguo ceip sant roc,0,1,0,0,1,1,38.61260699999999,-0.13559300000000657,calle apolo,urbanitzacio polop paradis,desconocido,03520,kindergarten
 edificio nuevo ceip sant roc,0,1,0,0,0,1,38.61436200000003,-0.1361750000000043,calle apolo,urbanitzacio polop paradis,desconocido,03520,parking
 edificio casa de cultura,1,1,0,0,0,1,38.62171299999998,-0.12697199999999836,carrer del posit,desconocido,desconocido,03520,residential
@@ -203,8 +203,8 @@ edificio casa museo gabriel miro,1,1,0,0,0,1,38.62238300000001,-0.13066200000000
 hogar 3a edad,1,0,1,0,0,1,38.72355819999999,-0.31542780000000126,avinguda del pais valencia,desconocido,desconocido,03811,garden
 centro polivalente sociocultural,1,0,1,0,0,1,38.11214600000002,-0.7161860000000033,trafalgar,desconocido,desconocido,03078,school
 la expo antigua escuela infantil,1,0,1,0,0,1,38.114405,-0.718345999999997,menendez pelayo,desconocido,desconocido,03078,house
-"ajuntament, salo d'actes",0,0,0,1,0,1,38.73923159999998,-0.012205199999999335,carrer esglesia,urbanitzacio solana park,desconocido,03727,police
-escola musica,1,1,1,0,0,1,38.740885,-0.011733699999996839,carrer esglesia,urbanitzacio solana park,desconocido,03727,place_of_worship
-casal tercera edad,1,0,0,0,0,1,38.53963400000004,-0.506757999999996,carrer d'alcoi,barri de segorb,desconocido,03100,townhall
-ceip cristobal colon,1,1,0,0,0,1,38.542736999999974,-0.5013059999999958,carrer de josep maria samper,barri de l'almarx,desconocido,03100,school
-ceip eloi coloma,1,1,0,0,0,1,38.54219100000003,-0.5062510000000007,carrer de marcel mira,barri de l'almarx,desconocido,03100,school
+ajuntament salo d'actes,0,0,0,1,0,1,38.73923159999998,-0.012205199999999335,carrer esglesia,urbanitzacio solana park,desconocido,03727,police
+escola musica,1,1,1,0,0,1,38.740885,-0.011733699999996839,carrer d’alacant,urbanitzacio solana park,desconocido,03727,place_of_worship
+casal tercera edad,1,0,0,0,0,1,38.539634000000035,-0.5067579999999968,carrer d'alcoi,barri de segorb,desconocido,03100,townhall
+ceip cristobal colon,1,1,0,0,0,1,38.542736999999974,-0.5013059999999958,carrer de manuel galiana uriarte,barri de l'almarx,desconocido,03100,school
+ceip eloi coloma,1,1,0,0,0,1,38.54219100000003,-0.5062510000000007,carrer de joan andres,barri de l'almarx,desconocido,03100,school
