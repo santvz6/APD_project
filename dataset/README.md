@@ -1,1 +1,1 @@
-https://dadesobertes.gva.es/es/dataset/estudio-de-accesibilidad-universal-en-edificios-publicos-en-la-comunidad-valenciana-de-titulari?utm_source=chatgpt.com
+Generalitat Valenciana. (2020). Estudio de accesibilidad universal en edificios públicos en la Comunidad Valenciana de titularidad municipal [Conjunto de datos]. Portal de Datos Abiertos de la Generalitat Valenciana. https://dadesobertes.gva.es/es/dataset/estudio-de-accesibilidad-universal-en-edificios-publicos-en-la-comunidad-valenciana-de-titulari
