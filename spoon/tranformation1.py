@@ -170,7 +170,7 @@ class Transformation:
         self.__remove_duplicate_names() # Reducción de Redundancia
         self.__clean_df()               # + Limpieza
         if add: self.__add_lat_lon()    # Feature Engineering: Nuevas características
-        self.__map_accessibilidad()     # Feature Engineering: Transformación a categorías
+        self.__map_accessibilidad()     # Feature Engineering: Label Encoding
         self.__remove_outliers()        # Tratamiento de Outliers
         self.__reverse_geocode()        # Enriquecimiento de Datos
         self.df.to_csv(self.output_path, index= False)
