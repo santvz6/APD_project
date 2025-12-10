@@ -483,11 +483,6 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Rellenar nulos</from>
-      <to>Replace</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Ordenar filas</from>
       <to>Salida Fichero de Texto</to>
       <enabled>Y</enabled>
@@ -529,7 +524,7 @@
     </hop>
     <hop>
       <from>Replace ñ</from>
-      <to>Rellenar nulos</to>
+      <to>Replace</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -799,7 +794,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>992</xloc>
+      <xloc>784</xloc>
       <yloc>448</yloc>
       <draw>Y</draw>
     </GUI>
@@ -841,7 +836,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>704</xloc>
+      <xloc>688</xloc>
       <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>
@@ -913,70 +908,6 @@
     </GUI>
   </step>
   <step>
-    <name>Rellenar nulos</name>
-    <type>IfNull</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <replaceAllByValue/>
-    <replaceAllMask/>
-    <selectFields>Y</selectFields>
-    <selectValuesType>N</selectValuesType>
-    <setEmptyStringAll>N</setEmptyStringAll>
-    <valuetypes>
-      </valuetypes>
-    <fields>
-      <field>
-        <name>nombre</name>
-        <value/>
-        <mask/>
-        <set_empty_string>N</set_empty_string>
-      </field>
-      <field>
-        <name>accesibilidad_total</name>
-        <value/>
-        <mask/>
-        <set_empty_string>N</set_empty_string>
-      </field>
-      <field>
-        <name>e4_servicios_higienicos</name>
-        <value/>
-        <mask/>
-        <set_empty_string>N</set_empty_string>
-      </field>
-      <field>
-        <name>lat</name>
-        <value/>
-        <mask/>
-        <set_empty_string>N</set_empty_string>
-      </field>
-      <field>
-        <name>lon</name>
-        <value/>
-        <mask/>
-        <set_empty_string>N</set_empty_string>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>768</xloc>
-      <yloc>448</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Replace</name>
     <type>ReplaceString</type>
     <description/>
@@ -1005,7 +936,7 @@
         <out_stream_name/>
         <use_regex>no</use_regex>
         <replace_string>designated</replace_string>
-        <replace_by_string>accesibilidad baja</replace_by_string>
+        <replace_by_string>accesibilidad alta</replace_by_string>
         <set_empty_string>N</set_empty_string>
         <replace_field_by_string/>
         <whole_word>no</whole_word>
@@ -1082,7 +1013,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>880</xloc>
+      <xloc>672</xloc>
       <yloc>448</yloc>
       <draw>Y</draw>
     </GUI>
@@ -1967,7 +1898,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>848</xloc>
+      <xloc>832</xloc>
       <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>

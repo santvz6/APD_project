@@ -148,7 +148,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 147,casal tercera edad,1.0,0.0,0.0,0.0,0.0,1.0,38.53963400000004,-0.5067579999999968,carrer d'alcoi,barri de segorb,desconocido,03100,townhall
 148,cash quality,0.0,0.0,0.0,0.0,0.0,4.0,38.376372,-0.5060028,carrer de benidoleig / calle benidoleig,la divina pastora,alacant / alicante,3011.0,supermarket
 149,casino sportium,0.0,0.0,0.0,0.0,0.0,4.0,38.3623034,-0.4874003,avinguda del pintor baeza / avenida pintor baeza,altossano,alacant / alicante,3014.0,casino
-150,castell de santa barbara,0.0,0.0,0.0,0.0,0.0,4.0,38.3490916,-0.4781771,tunel de acceso ascensor al castillo de santa barbara,sant antoni,alacant / alicante,3002.0,castle
+150,castell de santa barbara,0.0,0.0,0.0,0.0,0.0,4.0,38.3490916,-0.4781771,tunel de acceso ascensor al castillo de santa barbara,sant antoni,alacant / alicante,3002.0,toilets
 151,castello-esmeralda,0.0,0.0,0.0,0.0,0.0,4.0,38.3747007,-0.4871262,avinguda del pintor gaston castello / avenida del pintor gaston castello,colonia requena,alacant / alicante,3112.0,bus_stop
 152,castillo de banyeres (museo festero),1.0,1.0,0.0,1.0,0.0,1.0,38.71571340000002,-0.6573839000000039,carrer del castell,desconocido,desconocido,03450,theatre
 153,catral joven,0.0,0.0,0.0,0.0,0.0,0.0,38.16142699999998,-0.804689000000004,calle oscar espla,desconocido,desconocido,03158,police
@@ -216,7 +216,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 215,cerveceria jorge,0.0,0.0,0.0,0.0,0.0,2.0,38.3626074,-0.4897097,carrer de martin luther king / calle martin luther king,altossano,alacant / alicante,3010.0,bar
 216,chiringuito rompeolas,0.0,0.0,0.0,0.0,0.0,4.0,38.3462433,-0.4767517,passeig de gomiz / paseo de gomiz,vistahermosa,alacant / alicante,3002.0,restaurant
 217,cim formacion alicante,0.0,0.0,0.0,0.0,0.0,4.0,38.3488762,-0.4914931,carrer del mestre breton / calle maestro breton,nostra senyora de gracia,alacant / alicante,3004.0,college
-218,ciudad ibero romana de lucentum,0.0,0.0,0.0,2.0,0.0,2.0,38.3647421,-0.4388496,cami de la colonia romana / camino de la colonia romana,albufereta,alacant / alicante,3016.0,archaeological_site
+218,ciudad ibero romana de lucentum,0.0,0.0,0.0,2.0,0.0,2.0,38.3647421,-0.4388496,carrer de dafne / calle dafne,albufereta,alacant / alicante,3540.0,archaeological_site
 219,club convidencia de la 3a edad j. lozano,0.0,0.0,1.0,0.0,0.0,0.0,38.14095799999996,-0.886200999999998,calle alameda,desconocido,desconocido,03350,residential
 220,club deportivo montemar,0.0,0.0,0.0,0.0,0.0,3.0,38.3567191,-0.4756423,carrer de la gimnasta maisa lloret / calle gimnasta maisa lloret,el pla del bon repos,alacant / alicante,3013.0,pitch
 221,coffee nutz,0.0,0.0,0.0,0.0,0.0,4.0,38.3475316,-0.4845614,la rambla / la rambla,raval de sant francesc,alacant / alicante,3001.0,cafe
@@ -239,7 +239,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 238,conservatori m,0.0,0.0,0.0,0.0,0.0,0.0,38.59762139999999,-0.0508594999999949,carrer la sequia,desconocido,altea,03590,residential
 239,conservatorio,0.0,0.0,0.0,0.0,0.0,0.0,38.16102499999996,-0.8034790000000008,calle jose m. miralles quinto,desconocido,desconocido,03158,residential
 240,consulado britanico,0.0,0.0,0.0,0.0,0.0,2.0,38.3457204,-0.4837505,la rambla / la rambla,raval de sant francesc,alacant / alicante,3002.0,diplomatic
-241,consultes externes,0.0,0.0,0.0,0.0,0.0,4.0,38.3642271,-0.4856023,avinguda del pintor baeza / avenida pintor baeza,altossano,alacant / alicante,3014.0,hospital
+241,consultes externes,0.0,0.0,0.0,0.0,0.0,4.0,38.3642271,-0.4856023,carrer del mestre alonso / calle maestro alonso,les carolines altes,alacant / alicante,3012.0,hospital
 242,consultorio auxiliar,1.0,1.0,0.0,1.0,1.0,1.0,38.67564799999995,-0.1987000000000014,avenida de alicante,desconocido,desconocido,03517,cafe
 243,consultorio auxiliar la cala,0.0,0.0,0.0,0.0,0.0,0.0,38.53164299999998,-0.1683530000000064,avinguda marina baixa,la cala de finestrat,desconocido,03509,hotel
 244,consultorio auxiliar marina,0.0,0.0,0.0,0.0,0.0,0.0,38.13546099999999,-0.6865799999999966,calle amsterdam,urbanizacion la marina-el oasis,desconocido,03177,clinic
@@ -281,7 +281,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 280,edificio multiusos y antiguo consultorio de campell,1.0,0.0,1.0,0.0,0.0,1.0,38.78050929999995,-0.1013413000000003,carrer rei en jaume,desconocido,la vall de laguar,03791,doctors
 281,edificio nuevo ceip sant roc,0.0,1.0,0.0,0.0,0.0,1.0,38.61436200000003,-0.1361750000000043,calle apolo,urbanitzacio polop paradis,desconocido,03520,parking
 282,edificio usos multiples,0.0,0.0,1.0,1.0,1.0,1.0,38.84639399999997,0.0113100000000023,carrer l'escorxador,desconocido,desconocido,03770,residential
-283,el corte ingles,0.0,0.0,0.0,0.0,0.0,4.0,38.3440222,-0.4898638,carrer del general o'donnell / calle general o'donnell,nostra senyora de gracia,alacant / alicante,3003.0,department_store
+283,el corte ingles,0.0,0.0,0.0,0.0,0.0,4.0,38.3440222,-0.4898638,avinguda de federico soto / avenida de federico soto,nostra senyora de gracia,alacant / alicante,3003.0,toilets
 284,el dragon escamado,0.0,0.0,0.0,0.0,0.0,3.0,38.351009,-0.4883346,carrer del taquigraf marti / calle taquigrafo marti,raval de sant antoni,alacant / alicante,3004.0,restaurant
 285,el mirador,0.0,0.0,0.0,0.0,0.0,2.0,38.3485199,-0.4750497,carrer de la mare de deu del socors / calle virgen del socorro,sant roc,alacant / alicante,3002.0,cafe
 286,el refugio,0.0,0.0,0.0,0.0,0.0,2.0,38.3408195,-0.4907056,carrer d'italia / calle italia,raval de sant francesc,alacant / alicante,3003.0,bar
@@ -298,14 +298,14 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 297,espacio multiusos comercial-cultural,0.0,0.0,1.0,0.0,0.0,0.0,38.11557900000003,-0.7185519999999954,fernando alonso,desconocido,desconocido,03078,residential
 298,espacio polivalente segorb,0.0,0.0,1.0,0.0,0.0,0.0,38.534348000000016,-0.5065019999999977,carrer d'enric valor,barri de segorb,desconocido,03100,police
 299,estacion-salamanca,0.0,0.0,0.0,0.0,0.0,3.0,38.3440763,-0.49474,avinguda de salamanca / avenida de salamanca,nostra senyora de gracia,alacant / alicante,3003.0,bus_stop
-300,estadio jose rico perez,0.0,0.0,0.0,0.0,0.0,4.0,38.3573816,-0.4926034,"carrer de l'esportista jose luis soriano ""poli"" / calle deportista jose luis soriano ""poli""",altossano,alacant / alicante,3010.0,pitch
+300,estadio jose rico perez,0.0,0.0,0.0,0.0,0.0,4.0,38.3573816,-0.4926034,carrer de marco oliver / calle marco oliver,altossano,alacant / alicante,3009.0,stadium
 301,euipo-elche,0.0,0.0,0.0,0.0,0.0,4.0,38.3125598,-0.5164248,avinguda d'elx / avenida de elche,alicante hills,alacant / alicante,3008.0,bus_stop
 302,europa,0.0,0.0,0.0,0.0,0.0,4.0,38.3367437,-0.5070558,carrer del club de futbol hercules / calle club de futbol hercules,la florida baixa,alacant / alicante,3007.0,parking
 303,europhone,0.0,0.0,0.0,0.0,0.0,3.0,38.3611214,-0.4923711,avinguda de novelda / avenida de novelda,altossano,alacant / alicante,3010.0,internet_cafe
 304,explanada de espanya,0.0,0.0,0.0,0.0,0.0,4.0,38.3436603,-0.4827888,la rambla / la rambla,raval de sant francesc,alacant / alicante,3001.0,bus_stop
 305,ext. adm. a. la vella,0.0,0.0,0.0,0.0,1.0,0.0,38.63032050000004,-0.0437746999999968,carrer rector llinares / calle cura llinares,desconocido,altea,03599,library
 306,extension administrativa la cala,0.0,1.0,0.0,0.0,0.0,1.0,38.53196100000003,-0.1684599999999954,desconocido,desconocido,desconocido,03509,residential
-307,facultat de farmacia - universitat miguel hernandez d'elx,0.0,0.0,0.0,2.0,0.0,3.0,38.3872224,-0.4354765,avinguda del pintor perez gil / avenida pintor perez gil,desconocido,alacant / alicante,3559.0,university
+307,facultat de farmacia - universitat miguel hernandez d'elx,0.0,0.0,0.0,2.0,0.0,3.0,38.3872224,-0.4354765,avenida don santiago ramon y cajal,la santa fac,sant joan d'alacant,3559.0,clinic
 308,falafelmania vegetariano oriental,0.0,0.0,0.0,0.0,0.0,3.0,38.3323606,-0.5089442,carrer de peru / calle peru,el palmeral,alacant / alicante,3007.0,restaurant
 309,farmacia,0.0,0.0,0.0,0.0,0.0,4.0,38.360831,-0.4500242,carrer del sol naixent / calle sol naciente,albufereta,alacant / alicante,3016.0,pharmacy
 310,farmacia del teatro,0.0,0.0,0.0,0.0,0.0,4.0,38.3456448,-0.486491,carrer del teatre / calle del teatro,nostra senyora de gracia,alacant / alicante,3001.0,pharmacy
@@ -324,7 +324,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 323,hogar del jubilado,0.0,0.0,1.0,0.0,0.0,0.0,38.71820099999996,-0.6576180000000078,carrer santa cecilia,desconocido,desconocido,03450,residential
 324,holanda,0.0,0.0,0.0,0.0,0.0,4.0,38.3681319,-0.4198137,glorieta del fotoperiodista perfecto arjones,desconocido,alacant / alicante,3540.0,tram_stop
 325,hospital,0.0,0.0,0.0,0.0,0.0,4.0,38.3643274,-0.4838579,avinguda del periodista rodolfo salazar / avenida del periodista rodolfo salazar,sidi ifni - nou alacant,alacant / alicante,3014.0,tram_stop
-326,hospital de dia,0.0,0.0,0.0,0.0,0.0,4.0,38.3527772,-0.4764815,placa del doctor gomez ulla / plaza del doctor gomez ulla,sant roc,alacant / alicante,3013.0,hospital
+326,hospital de dia,0.0,0.0,0.0,0.0,0.0,4.0,38.3527772,-0.4764815,carrer de celia valls / calle celia valls,sant roc,alacant / alicante,3013.0,emergency_ward_entrance
 327,hostal les monges palace,0.0,0.0,0.0,0.0,0.0,4.0,38.3458972,-0.4815316,carrer de les monges / calle de las monjas,centre historic,alacant / alicante,3002.0,hostel
 328,hotel ac alicante,0.0,0.0,0.0,0.0,0.0,4.0,38.3386446,-0.4948575,carrer d'isabel la catolica / calle isabel la catolica,nostra senyora de gracia,alacant / alicante,3003.0,hotel
 329,i2e (ingenieria informatica empresarial),0.0,0.0,0.0,0.0,0.0,4.0,38.3451668,-0.5068288,carrer d'auso y monzo / calle auso y monzo,sant ferran - princesa mercedes,alacant / alicante,3006.0,it
@@ -383,7 +383,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 382,mussa beauty salon,0.0,0.0,0.0,0.0,0.0,4.0,38.3668814,-0.4262453,avinguda de l'historiador vicente ramos / avenida del historiador vicente ramos,albufereta,alacant / alicante,3540.0,beauty
 383,nacara,0.0,0.0,0.0,0.0,0.0,4.0,38.3665208,-0.4290554,avinguda de l'historiador vicente ramos / avenida del historiador vicente ramos,albufereta,alacant / alicante,3540.0,cafe
 384,nh,0.0,0.0,0.0,0.0,0.0,4.0,38.3364538,-0.50713,carrer del club de futbol hercules / calle club de futbol hercules,la florida baixa,alacant / alicante,3007.0,hotel
-385,nostrum,0.0,0.0,0.0,0.0,0.0,4.0,38.3443064,-0.4890458,carrer de colon / calle colon,nostra senyora de gracia,alacant / alicante,3001.0,restaurant
+385,nostrum,0.0,0.0,0.0,0.0,0.0,4.0,38.3443064,-0.4890458,avinguda de federico soto / avenida de federico soto,nostra senyora de gracia,alacant / alicante,3001.0,house
 386,nueva escuela musica y auditorio,0.0,0.0,0.0,0.0,1.0,0.0,38.028843000000016,-0.7436739999999992,calle virgen de loreto,barrio de los miras,desconocido,03187,house
 387,nuevas dependencias de la casa consistorial (ayuntamie,0.0,0.0,0.0,0.0,0.0,0.0,38.57957100000005,-0.1017262999999999,carrer de les escoles,desconocido,desconocido,03580,tertiary
 388,"nuevo colegio ""perpetuo socorro""",0.0,0.0,0.0,0.0,0.0,0.0,38.340176000000014,-0.7650170000000005,calle maestro alcolea,desconocido,aspe,03680,school
@@ -409,7 +409,7 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 408,pintor amoros,0.0,0.0,0.0,0.0,0.0,3.0,38.3706336,-0.4715152,carrer del pintor antonio amoros / calle pintor antonio amoros,ciutat elegida,alacant / alicante,3015.0,bus_stop
 409,pintor gaston castello,0.0,0.0,0.0,0.0,0.0,4.0,38.3739213,-0.4871507,avinguda del pintor gaston castello / avenida del pintor gaston castello,colonia requena,alacant / alicante,3112.0,tram_stop
 410,pio xii,0.0,0.0,0.0,0.0,0.0,4.0,38.355832,-0.4799831,carrer de sant mateu / calle san mateo,les carolines baixes,alacant / alicante,3013.0,bus_stop
-411,piscina climatizada,0.0,0.0,0.0,0.0,0.0,4.0,38.3610735,-0.4243518,carrer del trident / calle tridente,entreplatges,alacant / alicante,3540.0,fitness_centre
+411,piscina climatizada,0.0,0.0,0.0,0.0,0.0,4.0,38.3610735,-0.4243518,carrer de l'arpo / calle arpon,entreplatges,alacant / alicante,3540.0,sports_centre
 412,piso sdad musical sta ma magdalena,0.0,0.0,1.0,0.0,0.0,0.0,38.385832,-0.7651380000000026,plaza de espana,desconocido,novelda,03660,residential
 413,pizzeria popeye,0.0,0.0,0.0,0.0,0.0,4.0,38.37011,-0.4144491,avinguda de santander / avenida de santander,la platja de sant joan,alacant / alicante,3540.0,restaurant
 414,plasa d'argel / plaza de argel,0.0,0.0,0.0,0.0,0.0,4.0,38.3743081,-0.4915204,carrer de valle inclan / calle valle inclan,verge del remei,alacant / alicante,3112.0,bandstand
@@ -423,22 +423,22 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 422,plasa del doctor gascunyana hernando / plaza del doctor gascunyana hernando,0.0,0.0,0.0,0.0,0.0,4.0,38.3750713,-0.4882798,placa del doctor gascunana hernando / plaza del doctor gascunana hernando,verge del remei,alacant / alicante,3112.0,footway
 423,plasa del papa joan pau ii / plaza del papa juan pablo ii,0.0,0.0,0.0,0.0,0.0,4.0,38.3534913,-0.5117808,placa del papa joan pau ii / plaza del papa juan pablo ii,joan pau ii / juan pablo ii,alacant / alicante,3006.0,residential
 424,plasa del poble gitano / plaza del pueblo gitano,0.0,0.0,0.0,0.0,0.0,2.0,38.3583524,-0.4907421,carrer alferez diaz sanchis / calle alferez diaz sanchis,campoamor,alacant / alicante,3004.0,steps
-425,plasa dels estels / plaza de los luceros,0.0,0.0,0.0,0.0,0.0,3.0,38.3460049,-0.490678,placa dels estels / plaza de los luceros,nostra senyora de gracia,alacant / alicante,3003.0,fountain
+425,plasa dels estels / plaza de los luceros,0.0,0.0,0.0,0.0,0.0,3.0,38.3460049,-0.490678,placa dels estels / plaza de los luceros,nostra senyora de gracia,alacant / alicante,3003.0,station
 426,platja d'aigua amarga,0.0,0.0,0.0,0.0,0.0,3.0,38.299863,-0.5189107,passeig del music ignacio juan barcelo / paseo musico ignacio juan barcelo,desconocido,alacant / alicante,3008.0,biergarten
 427,plaza castalla,0.0,0.0,0.0,0.0,0.0,2.0,38.3696222,-0.4711409,placa de castalla / plaza de castalla,ciutat elegida,alacant / alicante,3015.0,bus_stop
 428,plaza de espanya 4,0.0,0.0,0.0,0.0,0.0,3.0,38.3516599,-0.4853625,placa d'espanya / plaza de espana,raval de sant antoni,alacant / alicante,3004.0,bus_stop
 429,plaza de espanya-panteon de quijano,0.0,0.0,0.0,0.0,0.0,3.0,38.3514,-0.4847416,placa d'espanya / plaza de espana,sant antoni,alacant / alicante,3004.0,bus_stop
 430,plenergy,0.0,0.0,0.0,0.0,0.0,4.0,38.3714114,-0.4577111,calle vistahermosa provisional 10,vistahermosa norte,alacant / alicante,3016.0,charging_station
 431,policia local,0.0,0.0,0.0,0.0,0.0,4.0,38.3645207,-0.4100177,avinguda de napols / avenida de napoles,desconocido,alacant / alicante,3540.0,police
-432,polideportivo justo hidalgo ruiz,0.0,0.0,0.0,0.0,0.0,4.0,38.3691401,-0.4829114,avinguda dels exercits espanyols / avenida de los ejercitos espanoles,quatre-centes vivendes,alacant / alicante,3014.0,sports_centre
+432,polideportivo justo hidalgo ruiz,0.0,0.0,0.0,0.0,0.0,4.0,38.3691401,-0.4829114,carrer del diputat joaquin galant ruiz / calle diputado joaquin galant ruiz,mare de deu del carme,alacant / alicante,3112.0,house
 433,polideportivo municipal,0.0,0.0,0.0,0.0,1.0,0.0,38.596084499999975,-0.6674609000000045,tinent general don vicente ripoll vals,desconocido,castalla,03430,residential
 434,polideportivo municipal - casa conserje + biblio+pisci,0.0,0.0,1.0,0.0,1.0,0.0,38.38454600000003,-0.7564230000000008,avenida compositor vicente diez clemente,desconocido,novelda,03660,sports_centre
 435,polideportivo municipal stadium,0.0,0.0,0.0,0.0,0.0,3.0,38.3611393,-0.4245176,carrer del trident / calle tridente,entreplatges,alacant / alicante,3540.0,fitness_centre
 436,primark,0.0,0.0,0.0,0.0,0.0,4.0,38.3672564,-0.4696366,carrer de jose garcia selles / calle jose garcia selles,el garbinet,alacant / alicante,3015.0,clothes
 437,punto roma,0.0,0.0,0.0,0.0,0.0,4.0,38.3434217,-0.4892289,avenida de maisonnave / avinguda de maisonnave,nostra senyora de gracia,alacant / alicante,3003.0,clothes
 438,r. altamira,0.0,0.0,0.0,0.0,0.0,4.0,38.3443553,-0.4828569,carrer de rafael altamira / calle rafael altamira,centre historic,alacant / alicante,3001.0,bus_stop
-439,radiologia,0.0,0.0,0.0,0.0,0.0,4.0,38.3523711,-0.4757895,placa del doctor gomez ulla / plaza del doctor gomez ulla,sant roc,alacant / alicante,3013.0,hospital
-440,radioterapia,0.0,0.0,0.0,0.0,0.0,4.0,38.3524669,-0.4762525,placa del doctor gomez ulla / plaza del doctor gomez ulla,sant roc,alacant / alicante,3013.0,hospital
+439,radiologia,0.0,0.0,0.0,0.0,0.0,4.0,38.3523711,-0.4757895,carrer de celia valls / calle celia valls,sant roc,alacant / alicante,3013.0,emergency_ward_entrance
+440,radioterapia,0.0,0.0,0.0,0.0,0.0,4.0,38.3524669,-0.4762525,carrer de celia valls / calle celia valls,sant roc,alacant / alicante,3013.0,emergency_ward_entrance
 441,rambla mendez nunyez 4-6,0.0,0.0,0.0,0.0,0.0,4.0,38.3441059,-0.4830176,la rambla / la rambla,raval de sant francesc,alacant / alicante,3001.0,bus_stop
 442,rambla-portal de elche,0.0,0.0,0.0,0.0,0.0,4.0,38.3446147,-0.4834853,la rambla / la rambla,raval de sant francesc,alacant / alicante,3001.0,bus_stop
 443,rambla-san jose,0.0,0.0,0.0,0.0,0.0,4.0,38.3451765,-0.4836064,la rambla / la rambla,raval de sant francesc,alacant / alicante,3001.0,bus_stop
@@ -486,12 +486,12 @@ id,nombre,e1_entrada_ppal,e2_itinerarios_accesibles,e3_zonas_atencion_publico,e4
 485,the good burger,0.0,0.0,0.0,0.0,0.0,4.0,38.3441014,-0.4837338,placa del portal d'elx / plaza portal de elche,raval de sant francesc,alacant / alicante,3001.0,fast_food
 486,tim hortons,0.0,0.0,0.0,0.0,0.0,4.0,38.3444617,-0.4958563,carrer de rigoberto ferrer / calle rigoberto ferrer,alipark,alacant / alicante,3003.0,cafe
 487,torre mauro,0.0,0.0,0.0,0.0,0.0,4.0,38.3660534,-0.4308318,avinguda d'ansaldo / avenida de ansaldo,albufereta,alacant / alicante,3540.0,restaurant
-488,tourist info,0.0,0.0,0.0,0.0,0.0,4.0,38.3438616,-0.4799467,passeig del port / paseo del puerto,centre historic,alacant / alicante,3002.0,parking
+488,tourist info,0.0,0.0,0.0,0.0,0.0,4.0,38.3438616,-0.4799467,passeig del port / paseo del puerto,centre historic,alacant / alicante,3002.0,office
 489,treasure media,0.0,0.0,0.0,0.0,0.0,2.0,38.3478868,-0.4757336,carrer de la mare de deu del socors / calle virgen del socorro,sant roc,alacant / alicante,3002.0,studio
 490,udaco,0.0,0.0,0.0,0.0,0.0,4.0,38.3482511,-0.4753267,carrer de la mare de deu del socors / calle virgen del socorro,sant roc,alacant / alicante,3002.0,convenience
 491,ulanka,0.0,0.0,0.0,0.0,0.0,4.0,38.343408,-0.4893328,avenida de maisonnave / avinguda de maisonnave,nostra senyora de gracia,alacant / alicante,3003.0,shoes
-492,umh - universitat miguel hernandez - campus de sant joan d'alacant,0.0,0.0,0.0,4.0,0.0,4.0,38.3885882,-0.4363055,avenida don santiago ramon y cajal,la santa fac,sant joan d'alacant,3559.0,research_institute
-493,universitat d'alacant / universidad de alicante (campus de sant vicent),0.0,0.0,0.0,0.0,0.0,3.0,38.3849307,-0.5141978,antic acces nord-oest a alacant,desconocido,alacant / alicante,3690.0,university
+492,umh - universitat miguel hernandez - campus de sant joan d'alacant,0.0,0.0,0.0,4.0,0.0,4.0,38.3885882,-0.4363055,avenida don santiago ramon y cajal,la santa fac,sant joan d'alacant,3559.0,clinic
+493,universitat d'alacant / universidad de alicante (campus de sant vicent),0.0,0.0,0.0,0.0,0.0,3.0,38.3849307,-0.5141978,pinada de los cuentos,universidad,sant vicent del raspeig / san vicente del raspeig,3699.0,tree
 494,urgencies,0.0,0.0,0.0,0.0,0.0,4.0,38.3527883,-0.4758436,carrer de celia valls / calle celia valls,sant roc,alacant / alicante,3013.0,emergency_ward_entrance
 495,v. reyes,0.0,0.0,0.0,0.0,0.0,4.0,38.3648024,-0.4720701,carrer del metge vicente reyes / calle medico vicente reyes,el garbinet,alacant / alicante,3015.0,bus_stop
 496,valencia once,0.0,0.0,0.0,4.0,0.0,4.0,38.3525297,-0.4838708,carrer de valencia / calle valencia,sant antoni,alacant / alicante,3004.0,restaurant

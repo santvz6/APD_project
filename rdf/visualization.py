@@ -13,7 +13,7 @@ class RDFVisualization:
         
 
     def __call__(self, *args, **kwds):
-        self.general_map()
+        self.levelmap_accesibilidad()
         self.heatmap_accesibilidad()
         self.visualization_cluster()
 
