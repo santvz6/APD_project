@@ -79,3 +79,12 @@ Agrupa los puntos cercanos según nivel de zoom. Cada marcador incluye nombre y 
 
 ## Conclusión
 Nuestro proyecto proporciona una **herramienta práctica y confiable** para visualizar y analizar la accesibilidad urbana en Alicante, mejorando la autonomía de personas con movilidad reducida y aportando información útil para planificación inclusiva.
+
+
+## Referencias
+- Documentación de Schema.org
+- Wikidata
+- Librería rdflib (Python)
+- Folium
+- Accesibilidad en edificios públicos en la Comunidad Valenciana
+- Overpass
